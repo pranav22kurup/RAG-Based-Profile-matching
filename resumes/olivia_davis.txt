@@ -1,0 +1,30 @@
+OLIVIA DAVIS
+olivia.davis@email.com | (617) 555-1515 | Cambridge, MA
+
+SUMMARY
+Biomedical Data Scientist with PhD in Computational Biology. 
+Expert in genomics, bioinformatics, and ML applications in drug discovery.
+Published 12 peer-reviewed papers in Nature, Cell, and PLOS Computational Biology.
+
+EXPERIENCE
+
+Senior Computational Scientist | Broad Institute | 2021 – Present
+- Developed deep learning model for predicting CRISPR off-target effects (Nature Biotechnology)
+- Built single-cell RNA sequencing analysis pipeline processing 1M+ cells
+- Applied transformer models to protein structure prediction (AlphaFold fine-tuning)
+- Collaborated with 8 wet-lab teams on data analysis
+
+Postdoctoral Researcher | Harvard Medical School | 2019 – 2021
+- Researched computational methods for rare disease variant interpretation
+- Analyzed whole-genome sequencing data from 50,000+ patients
+
+EDUCATION
+Ph.D. Computational Biology | MIT | 2019
+B.S. Biology & Computer Science | Johns Hopkins | 2014
+
+SKILLS
+Bioinformatics: GATK, STAR, DESeq2, Seurat, Scanpy, BioConductor
+Languages: Python, R, Bash, Perl
+ML: PyTorch, scikit-learn, deep learning, graph neural networks
+Genomics: WGS/WES, scRNA-seq, ATAC-seq, ChIP-seq, metagenomics
+Cloud: AWS, Google Cloud Life Sciences

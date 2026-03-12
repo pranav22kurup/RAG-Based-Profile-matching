@@ -1,0 +1,31 @@
+VICTORIA REYES
+victoria.reyes@email.com | (512) 555-2222 | Austin, TX
+
+SUMMARY
+Frontend Engineer with 4 years experience building performant React applications.
+Passionate about accessibility, design systems, and web performance.
+Open-source contributor with 5k+ GitHub stars.
+
+EXPERIENCE
+
+Frontend Engineer | Figma | 2022 – Present
+- Contributed to core editor canvas performance (reduced re-renders by 60%)
+- Built accessible component library used by 10+ product teams
+- Implemented WebAssembly modules for CPU-intensive rendering operations
+- Led frontend guild's web performance working group
+
+Frontend Engineer | Shopify | 2020 – 2022
+- Built merchant analytics dashboard (React + TypeScript + GraphQL)
+- Improved Core Web Vitals scores: LCP -40%, CLS -80%, FID -50%
+- Migrated legacy jQuery codebase to React (200k+ lines)
+
+EDUCATION
+B.S. Computer Science | UT Austin | 2020
+
+SKILLS
+Languages: TypeScript, JavaScript, HTML, CSS
+Frameworks: React, Next.js, Remix, Vue.js, Svelte
+Tools: Webpack, Vite, Storybook, Playwright, Cypress
+Styling: Tailwind CSS, CSS Modules, styled-components, CSS-in-JS
+Performance: Lighthouse, Web Vitals, Chrome DevTools, WebAssembly
+Accessibility: WCAG 2.1, ARIA, screen reader testing

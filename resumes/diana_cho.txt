@@ -1,0 +1,30 @@
+DIANA CHO
+diana.cho@email.com | (425) 555-3030 | Bellevue, WA
+
+SUMMARY
+Principal Software Engineer with 12 years of experience in distributed systems and cloud infrastructure.
+Led engineering teams building hyperscale cloud services at Microsoft and Amazon.
+Frequent speaker at KubeCon and QCon; author of O'Reilly book on distributed systems.
+
+EXPERIENCE
+
+Principal Engineer | Amazon | 2018 – Present
+- Technical lead for DynamoDB auto-scaling service serving 100M+ tables
+- Designed consensus protocol improvement reducing P99 latency by 15%
+- Led 6-person engineering team; drove 3 major feature launches
+- Authored 12 Amazon internal design documents adopted as best practices
+
+Senior Software Engineer | Microsoft | 2011 – 2018
+- Core contributor to Azure Cosmos DB globally distributed database
+- Designed multi-master replication protocol handling network partitions
+- Presented at 5 industry conferences on consistency models
+
+EDUCATION
+Ph.D. Distributed Systems | MIT | 2011
+B.S. Computer Science | Cornell University | 2006
+
+SKILLS
+Distributed Systems: Consensus algorithms (Paxos, Raft), CAP theorem, CRDT
+Languages: Java, C++, Go, Python, SQL
+Databases: DynamoDB, Cosmos DB, Cassandra, Spanner
+Cloud: AWS (expert), Azure (expert)

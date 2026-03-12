@@ -1,0 +1,29 @@
+YUKI TANAKA
+yuki.tanaka@email.com | (415) 555-2525 | San Francisco, CA
+
+SUMMARY
+Robotics Software Engineer with 5 years experience in autonomous systems and computer vision.
+Expert in ROS/ROS2, C++, and perception systems for autonomous vehicles and drones.
+
+EXPERIENCE
+
+Robotics Engineer | Waymo | 2021 – Present
+- Developed perception pipeline for autonomous vehicle sensor fusion (LiDAR + Camera)
+- Built 3D object detection models achieving state-of-the-art on nuScenes benchmark
+- Optimized real-time inference pipeline (C++ + CUDA) achieving 10x speedup
+- Led sub-team of 4 engineers on pedestrian behavior prediction
+
+Robotics Engineer | Boston Dynamics | 2019 – 2021
+- Programmed locomotion control for Spot robot (ROS, C++)
+- Developed manipulation algorithms for Pick robot in warehouse automation
+- Built simulation environments in Gazebo for algorithm testing
+
+EDUCATION
+M.S. Robotics | Carnegie Mellon University | 2019
+B.S. Mechanical Engineering | UC San Diego | 2017
+
+SKILLS
+Robotics: ROS/ROS2, Gazebo, MoveIt, Nav2, PCL
+Computer Vision: OpenCV, PyTorch, 3D object detection, SLAM, sensor fusion
+Languages: C++, Python, CUDA, Matlab
+Hardware: LiDAR (Velodyne, Ouster), Cameras (Intel RealSense), IMU, GPS

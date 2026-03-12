@@ -1,0 +1,27 @@
+XAVIER JOHNSON
+xavier.johnson@email.com | (773) 555-2424 | Chicago, IL
+
+SUMMARY
+Entry-level Data Analyst with 1 year of professional experience and strong academic background.
+Passionate about turning data into actionable business insights using SQL, Python, and Tableau.
+
+EXPERIENCE
+
+Data Analyst | United Airlines | 2023 – Present
+- Analyzes flight operations data to identify delay patterns (SQL, Python)
+- Builds Tableau dashboards for operations team (20+ stakeholders)
+- Automated weekly reporting, saving 8 hours/week
+
+Data Analysis Intern | Nielsen | Summer 2022
+- Supported media ratings analysis for broadcast TV clients
+- Cleaned and processed datasets of 500k+ records using Python
+
+EDUCATION
+B.S. Statistics | DePaul University | 2023
+GPA: 3.7 | Relevant coursework: Machine Learning, Time Series Analysis, Database Systems
+
+SKILLS
+Languages: SQL (advanced), Python (pandas, matplotlib, seaborn), R (basic)
+BI Tools: Tableau, Power BI, Excel (advanced)
+Databases: PostgreSQL, MySQL, Snowflake (basic)
+Stats: Regression, Hypothesis testing, A/B testing

@@ -1,0 +1,32 @@
+EMMA WILLIAMS
+emma.williams@email.com | (617) 555-0505 | Boston, MA
+
+SUMMARY
+Product Manager with 6 years experience leading data-driven product strategy at B2B SaaS companies.
+Strong technical background with experience in ML product development and API platforms.
+
+EXPERIENCE
+
+Senior Product Manager | HubSpot | 2021 – Present
+- Owned CRM AI features roadmap; launched 3 ML-powered features generating $15M ARR
+- Led cross-functional team of 12 (engineering, design, data science)
+- Defined product metrics and ran 50+ A/B experiments to optimize conversion funnels
+- Reduced customer churn by 18% through predictive churn modeling product
+
+Product Manager | Klaviyo | 2018 – 2021
+- Launched email deliverability dashboard increasing customer satisfaction (NPS +22)
+- Managed integrations ecosystem with 200+ partners (Shopify, Salesforce, etc.)
+- Wrote detailed PRDs and user stories; facilitated sprint planning
+
+Associate PM | Wayfair | 2017 – 2018
+- Supported search and discovery team; conducted user research with 100+ customers
+
+EDUCATION
+MBA | Harvard Business School | 2017
+B.S. Computer Science | MIT | 2015
+
+SKILLS
+Product: Roadmapping, PRD Writing, A/B Testing, User Research, OKRs
+Technical: SQL, Python (basic), API design, data analysis
+Tools: JIRA, Figma, Amplitude, Mixpanel, Looker, Tableau
+Methodologies: Agile/Scrum, Design Thinking, Jobs-to-be-Done

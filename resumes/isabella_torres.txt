@@ -1,0 +1,35 @@
+ISABELLA TORRES
+isabella.torres@email.com | (305) 555-0909 | Miami, FL
+
+SUMMARY
+Cybersecurity Engineer with 6 years of experience in penetration testing, incident response, and security architecture.
+CISSP and CEH certified. Led security programs at financial institutions and healthcare companies.
+
+EXPERIENCE
+
+Senior Security Engineer | Citibank | 2021 – Present
+- Led red team operations discovering 40+ critical vulnerabilities before exploitation
+- Architected zero-trust security model for hybrid cloud environment
+- Built SIEM platform (Splunk) processing 50B+ security events/day
+- Managed incident response team; reduced MTTR from 4 hours to 45 minutes
+
+Security Engineer | Humana | 2018 – 2021
+- Performed penetration tests on 200+ web applications and APIs
+- Implemented HIPAA-compliant security controls for healthcare data systems
+- Developed security awareness training program (2,000+ employees)
+
+Security Analyst | Mandiant | 2017 – 2018
+- Investigated APT intrusions for Fortune 500 clients
+- Performed malware analysis and threat intelligence research
+
+EDUCATION
+B.S. Information Security | Florida International University | 2017
+
+SKILLS
+Offensive: Penetration testing, Burp Suite, Metasploit, Kali Linux, Social engineering
+Defensive: SIEM (Splunk, IBM QRadar), EDR (CrowdStrike), IDS/IPS, WAF
+Cloud Security: AWS Security Hub, Azure Sentinel, GCP Security Command Center
+Compliance: HIPAA, PCI-DSS, SOC 2, NIST, ISO 27001
+Languages: Python, Bash, PowerShell
+
+CERTIFICATIONS: CISSP | CEH | OSCP | AWS Security Specialty

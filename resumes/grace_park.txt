@@ -1,0 +1,32 @@
+GRACE PARK
+grace.park@email.com | (310) 555-0707 | Los Angeles, CA
+
+SUMMARY
+UX/UI Designer with 5 years experience creating intuitive digital experiences for mobile and web.
+Specializes in design systems, accessibility, and data visualization. Strong user research skills.
+
+EXPERIENCE
+
+Senior UX Designer | Netflix | 2021 – Present
+- Redesigned content discovery experience for 230M+ subscribers (increased engagement 25%)
+- Led design system initiative; created 200+ reusable components
+- Conducted 80+ user interviews and usability studies
+- Collaborated with 15 engineering teams to ensure pixel-perfect implementation
+
+UX Designer | Hulu | 2019 – 2021
+- Designed streaming player UI for smart TVs, web, and mobile
+- Created accessibility improvements achieving WCAG 2.1 AA compliance
+- Ran A/B tests on onboarding flow reducing drop-off by 30%
+
+Junior Designer | IDEO | 2018 – 2019
+- Contributed to design sprints for Fortune 500 clients in healthcare and fintech
+
+EDUCATION
+M.F.A. Interaction Design | ArtCenter College of Design | 2018
+B.A. Psychology | UCLA | 2016
+
+SKILLS
+Design: Figma, Sketch, Adobe XD, InVision, Prototyping, Wireframing
+Research: Usability testing, User interviews, Journey mapping, Card sorting
+Technical: HTML/CSS, basic JavaScript, iOS/Android guidelines
+Specialties: Design systems, Accessibility (WCAG), Data visualization, Motion design

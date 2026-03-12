@@ -1,0 +1,29 @@
+ZOE WILLIAMS
+zoe.williams@email.com | (646) 555-2626 | Brooklyn, NY
+
+SUMMARY
+Staff Software Engineer with 11 years of experience in distributed systems and platform engineering.
+Passionate about developer productivity, system design, and engineering culture.
+
+EXPERIENCE
+
+Staff Engineer | Spotify | 2019 – Present
+- Technical lead for internal developer platform used by 3,000+ engineers
+- Designed event streaming architecture (Kafka) handling 1T+ events/day for music recommendations
+- Contributed to engineering RFC process improving cross-team alignment
+- Mentored 8 engineers to senior level; led system design interview panel
+
+Senior Engineer | Twitter | 2014 – 2019
+- Core contributor to Tweet ingestion pipeline (5,000 tweets/second)
+- Led rewrite of notification delivery system reducing latency by 70%
+- Drove adoption of service mesh (Linkerd) across 200+ microservices
+
+EDUCATION
+B.S. Computer Science | Cornell University | 2013
+
+SKILLS
+Languages: Scala, Java, Python, Go, SQL
+Distributed Systems: Kafka, Flink, Spark, ZooKeeper, etcd
+Databases: PostgreSQL, Cassandra, Redis, ClickHouse
+Cloud: AWS, GCP, Kubernetes, Docker
+System Design: Microservices, Event-driven, CQRS, saga patterns

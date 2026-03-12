@@ -1,0 +1,32 @@
+Job Title: Computer Vision / Robotics Software Engineer
+Company: Autonomous Dynamics
+Location: San Francisco, CA (On-site)
+
+About the Role:
+Autonomous Dynamics builds autonomous mobile robots for warehouse and logistics applications.
+We are looking for a Computer Vision/Robotics Engineer to develop our perception and navigation systems.
+
+Responsibilities:
+- Develop real-time 3D perception systems using LiDAR, cameras, and sensor fusion
+- Implement and optimize object detection and tracking algorithms
+- Build navigation and path planning algorithms using ROS2
+- Optimize C++ code for real-time performance on embedded hardware
+- Develop simulation environments for algorithm testing
+- Collaborate with hardware team on sensor integration
+
+Required Qualifications:
+- 3+ years of robotics or computer vision engineering experience
+- Proficiency in C++ (required) and Python
+- Strong experience with ROS or ROS2
+- Experience with sensor fusion (LiDAR, cameras, IMU)
+- Computer vision skills: object detection, SLAM, 3D reconstruction
+- Familiarity with PyTorch or TensorFlow for deep learning
+- Experience with point cloud processing (PCL or Open3D)
+
+Preferred Qualifications:
+- M.S. or Ph.D. in Robotics, Computer Vision, or related field
+- Experience with autonomous vehicles or drones
+- CUDA programming experience
+- Experience with simulation tools (Gazebo, Isaac Sim)
+
+Compensation: $160,000 - $220,000 + equity

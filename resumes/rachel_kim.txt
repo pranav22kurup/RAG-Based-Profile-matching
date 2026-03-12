@@ -1,0 +1,31 @@
+RACHEL KIM
+rachel.kim@email.com | (213) 555-1818 | Los Angeles, CA
+
+SUMMARY
+Growth Marketing Manager with 6 years experience in data-driven marketing at consumer tech companies.
+Expert in performance marketing, SEO/SEM, and marketing analytics. Managed $20M+ ad budgets.
+
+EXPERIENCE
+
+Senior Growth Manager | TikTok | 2021 – Present
+- Managed $15M/quarter paid acquisition budget across Meta, Google, TikTok Ads
+- Built attribution modeling reducing blended CAC by 28% ($4M savings)
+- Launched influencer marketing program generating 500M+ organic views
+- Led team of 4 growth marketers; reported directly to VP Marketing
+
+Growth Marketing Manager | Spotify | 2018 – 2021
+- Drove 25% YoY growth in premium subscriber conversions through A/B testing
+- Optimized email lifecycle campaigns (automated flows, 4M+ subscribers)
+- Built marketing analytics dashboards in Looker (SQL + Python)
+
+Digital Marketing Analyst | WPP | 2017 – 2018
+- Managed SEM campaigns for retail clients ($2M+ monthly spend)
+
+EDUCATION
+B.S. Marketing & Statistics | University of Michigan | 2017
+
+SKILLS
+Paid: Meta Ads, Google Ads, TikTok Ads, Programmatic, Apple Search Ads
+Analytics: Google Analytics 4, Amplitude, Mixpanel, Looker, SQL, Python (basic)
+Email: Braze, Iterable, Klaviyo, Mailchimp
+SEO/Content: Ahrefs, SEMrush, content strategy, technical SEO

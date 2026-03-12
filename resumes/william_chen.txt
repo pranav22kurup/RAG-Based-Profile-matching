@@ -1,0 +1,30 @@
+WILLIAM CHEN
+william.chen@email.com | (650) 555-2323 | Palo Alto, CA
+
+SUMMARY
+Site Reliability Engineer with 9 years of experience ensuring reliability and performance of distributed systems.
+Expert in incident management, capacity planning, and observability. Led SRE teams at Google and Meta.
+
+EXPERIENCE
+
+Staff SRE | Meta | 2020 – Present
+- Owned reliability for Instagram's feed ranking systems (2B+ daily users)
+- Led incident management practice; achieved 99.999% availability SLA
+- Built comprehensive observability platform (custom metrics, tracing, logging)
+- Reduced on-call burden by 40% through intelligent alerting and runbook automation
+
+Senior SRE | Google | 2015 – 2020
+- Supported Google Search serving 8.5B+ daily queries
+- Designed capacity planning models predicting 18-month infrastructure needs
+- Developed chaos engineering toolkit used across 50+ Google SRE teams
+
+EDUCATION
+M.S. Computer Science | University of Illinois at Urbana-Champaign | 2015
+B.S. Computer Engineering | Purdue University | 2013
+
+SKILLS
+Reliability: SLA/SLO/SLI design, Error budgets, Chaos engineering, Runbooks
+Observability: Prometheus, Grafana, Jaeger, OpenTelemetry, ELK, Datadog
+Cloud: GCP (expert), AWS, on-premise Linux
+Programming: Go, Python, C++, SQL, Bash
+On-call: PagerDuty, incident command, post-mortems

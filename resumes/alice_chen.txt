@@ -1,0 +1,38 @@
+ALICE CHEN
+alice.chen@email.com | (415) 555-0101 | San Francisco, CA | linkedin.com/in/alicechen
+
+SUMMARY
+Senior Machine Learning Engineer with 7 years of experience building production ML systems. 
+Expert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.
+
+EXPERIENCE
+
+Senior ML Engineer | Google DeepMind | 2020 – Present
+- Designed and deployed large-scale NLP models serving 100M+ daily users
+- Built distributed training pipelines using PyTorch and JAX on TPU clusters
+- Reduced model inference latency by 40% through quantization and distillation
+- Mentored 4 junior engineers; led weekly ML reading groups
+
+ML Engineer | Uber AI | 2018 – 2020
+- Developed real-time fraud detection model (XGBoost + LSTM) saving $50M annually
+- Built feature store serving 500+ ML features to 20+ teams
+- Implemented A/B testing framework for model evaluation
+
+Data Scientist | Airbnb | 2016 – 2018
+- Created dynamic pricing model increasing host revenue by 12%
+- Built recommendation engine using collaborative filtering (ALS)
+
+EDUCATION
+M.S. Computer Science (Machine Learning) | Stanford University | 2016
+B.S. Mathematics & Statistics | UC Berkeley | 2014
+
+SKILLS
+Languages: Python, Scala, SQL, C++
+ML/DL: PyTorch, TensorFlow, JAX, scikit-learn, Hugging Face Transformers
+MLOps: Kubeflow, MLflow, Airflow, Docker, Kubernetes
+Cloud: GCP (Vertex AI), AWS (SageMaker), Azure ML
+Specialties: NLP, Computer Vision, Reinforcement Learning, LLMs
+
+PUBLICATIONS
+- "Efficient Fine-Tuning of Large Language Models" – NeurIPS 2022
+- "Scalable Fraud Detection with Graph Neural Networks" – KDD 2020

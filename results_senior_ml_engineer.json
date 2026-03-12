@@ -1,0 +1,360 @@
+{
+  "job_description": "Job Title: Senior Machine Learning Engineer\nCompany: TechVision AI\nLocation: San Francisco, CA (Hybrid)\n\nAbout the Role:\nWe are looking for a Senior Machine Learning Engineer to join our AI Platform team. \nYou will design, build, and deploy ML systems at scale that power our core product features.\n\n...",
+  "jd_required_skills": [
+    "python",
+    "r",
+    "machine learning",
+    "deep learning",
+    "nlp",
+    "computer vision",
+    "pytorch",
+    "tensorflow",
+    "aws",
+    "gcp",
+    "azure",
+    "mlops"
+  ],
+  "jd_preferred_skills": [
+    "llm",
+    "kubernetes",
+    "docker"
+  ],
+  "total_candidates_evaluated": 32,
+  "top_matches": [
+    {
+      "candidate_name": "Alice Chen",
+      "resume_path": "resumes\\alice_chen.txt",
+      "match_score": 73.2,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Machine Learning",
+        "Deep Learning",
+        "Nlp",
+        "Computer Vision",
+        "Pytorch",
+        "Tensorflow",
+        "Llm",
+        "Aws",
+        "Gcp",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Mlops"
+      ],
+      "relevant_excerpts": [
+        "ALICE CHEN\nalice.chen@email.com | (415) 555-0101 | San Francisco, CA | linkedin.com/in/alicechen\n\nSUMMARY\nSenior Machine Learning Engineer with 7 years of experience building production ML systems. \nExpert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.\n\nEXPERIENCE...",
+        "Senior Machine Learning Engineer with 7 years of experience building production ML systems. \nExpert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.",
+        "Senior ML Engineer | Google DeepMind | 2020 \u2013 Present\n- Designed and deployed large-scale NLP models serving 100M+ daily users\n- Built distributed training pipelines using PyTorch and JAX on TPU clusters\n- Reduced model inference latency by 40% through quantization and distillation\n- Mentored 4 juni..."
+      ],
+      "reasoning": "Alice Chen (Staff/Principal, ~10 yrs exp, Masters) | Matched skills: Python, R, Machine Learning, Deep Learning, Nlp, Computer Vision, Pytorch, Tensorflow, Llm, Aws | Good semantic alignment with job description. | Covers most required skills.",
+      "score_breakdown": {
+        "semantic": 26.9,
+        "keyword_required": 30.0,
+        "keyword_preferred": 10.0,
+        "seniority": 3.0,
+        "education": 3.3,
+        "raw_semantic": 0.537,
+        "raw_keyword_req": 1.0
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 10,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Brenda Foster",
+      "resume_path": "resumes\\brenda_foster.txt",
+      "match_score": 67.0,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Pytorch",
+        "Tensorflow",
+        "Aws",
+        "Gcp",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Mlops"
+      ],
+      "relevant_excerpts": [
+        "Machine Learning Engineer with 4 years experience deploying ML models to production.\nExpert in MLOps, model serving, and real-time ML systems. Strong Python and cloud skills.",
+        "BRENDA FOSTER\nbrenda.foster@email.com | (612) 555-2828 | Minneapolis, MN\n\nSUMMARY\nMachine Learning Engineer with 4 years experience deploying ML models to production.\nExpert in MLOps, model serving, and real-time ML systems. Strong Python and cloud skills.\n\nEXPERIENCE\n\nML Engineer | Target Corporati...",
+        "ML Engineer | Target Corporation | 2021 \u2013 Present\n- Built recommendation system serving 2M+ daily users (matrix factorization + deep learning)\n- Deployed 15+ ML models to production using Kubernetes and Seldon Core\n- Built feature platform processing 50M+ events/day with Feast feature store\n- Reduce..."
+      ],
+      "reasoning": "Brenda Foster (Senior, ~6 yrs exp, Masters) | Matched skills: Python, R, Machine Learning, Deep Learning, Computer Vision, Pytorch, Tensorflow, Aws, Gcp, Azure | Moderate semantic alignment with job description. | Covers most required skills.",
+      "score_breakdown": {
+        "semantic": 24.5,
+        "keyword_required": 27.5,
+        "keyword_preferred": 6.7,
+        "seniority": 5.0,
+        "education": 3.3,
+        "raw_semantic": 0.49,
+        "raw_keyword_req": 0.917
+      },
+      "seniority": "Senior",
+      "experience_years": 6,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "George Walker",
+      "resume_path": "resumes\\george_walker.txt",
+      "match_score": 42.9,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Nlp",
+        "Llm",
+        "Aws",
+        "Gcp",
+        "Azure"
+      ],
+      "relevant_excerpts": [
+        "GEORGE WALKER\ngeorge.walker@email.com | (415) 555-3333 | San Francisco, CA\n\nSUMMARY\nAI/ML Product Engineer with 6 years bridging ML research and production systems.\nExpert in LLM applications, prompt engineering, and AI product development.\nBuilt AI products used by 5M+ users at leading tech compani...",
+        "AI/ML Product Engineer with 6 years bridging ML research and production systems.\nExpert in LLM applications, prompt engineering, and AI product development.\nBuilt AI products used by 5M+ users at leading tech companies.",
+        "AI Engineer | Anthropic | 2023 \u2013 Present\n- Built Claude API integrations and developer tooling for enterprise customers\n- Designed evaluation frameworks for LLM safety and capability assessment\n- Developed retrieval-augmented generation (RAG) systems for document Q&A\n- Contributed to Constitutional..."
+      ],
+      "reasoning": "George Walker (Senior, ~8 yrs exp, Masters) | Matched skills: Python, R, Nlp, Llm, Aws, Gcp, Azure | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 16.3,
+        "keyword_required": 15.0,
+        "keyword_preferred": 3.3,
+        "seniority": 5.0,
+        "education": 3.3,
+        "raw_semantic": 0.325,
+        "raw_keyword_req": 0.5
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Zoe Williams",
+      "resume_path": "resumes\\zoe_williams.txt",
+      "match_score": 37.8,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Aws",
+        "Gcp",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "ZOE WILLIAMS\nzoe.williams@email.com | (646) 555-2626 | Brooklyn, NY\n\nSUMMARY\nStaff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture.\n\nEXPERIENCE\n\nStaff Engineer | Spotify | 2...",
+        "Staff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture.",
+        "Staff Engineer | Spotify | 2019 \u2013 Present\n- Technical lead for internal developer platform used by 3,000+ engineers\n- Designed event streaming architecture (Kafka) handling 1T+ events/day for music recommendations\n- Contributed to engineering RFC process improving cross-team alignment\n- Mentored 8 e..."
+      ],
+      "reasoning": "Zoe Williams (Staff/Principal, ~12 yrs exp, Masters) | Matched skills: Python, R, Aws, Gcp, Kubernetes, Docker | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 14.8,
+        "keyword_required": 10.0,
+        "keyword_preferred": 6.7,
+        "seniority": 3.0,
+        "education": 3.3,
+        "raw_semantic": 0.296,
+        "raw_keyword_req": 0.333
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 12,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "James Brown",
+      "resume_path": "resumes\\james_brown.txt",
+      "match_score": 37.0,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Machine Learning",
+        "Deep Learning",
+        "Tensorflow"
+      ],
+      "relevant_excerpts": [
+        "Data Scientist with 5 years of experience in statistical modeling, machine learning, and business analytics.\nStrong domain expertise in retail and supply chain optimization. Expert in Python and R.",
+        "JAMES BROWN\njames.brown@email.com | (312) 555-1010 | Chicago, IL\n\nSUMMARY\nData Scientist with 5 years of experience in statistical modeling, machine learning, and business analytics.\nStrong domain expertise in retail and supply chain optimization. Expert in Python and R.\n\nEXPERIENCE\n\nSenior Data Sci...",
+        "Languages: Python, R, SQL\nML: scikit-learn, XGBoost, LightGBM, statsmodels, Prophet\nDeep Learning: TensorFlow, Keras\nVisualization: Tableau, Power BI, matplotlib, seaborn, Plotly\nStatistical Methods: Regression, Time series, A/B testing, Causal inference, Bayesian methods"
+      ],
+      "reasoning": "James Brown (Senior, ~8 yrs exp, Masters) | Matched skills: Python, R, Machine Learning, Deep Learning, Tensorflow | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 16.2,
+        "keyword_required": 12.5,
+        "keyword_preferred": 0.0,
+        "seniority": 5.0,
+        "education": 3.3,
+        "raw_semantic": 0.323,
+        "raw_keyword_req": 0.417
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "David Kim",
+      "resume_path": "resumes\\david_kim.txt",
+      "match_score": 37.0,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Aws",
+        "Gcp",
+        "Azure",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "DAVID KIM\ndavid.kim@email.com | (206) 555-0404 | Seattle, WA\n\nSUMMARY\nDevOps / Platform Engineer with 8 years experience in cloud infrastructure, Kubernetes, and SRE practices. \nBuilt and managed infrastructure for systems handling millions of concurrent users.\n\nEXPERIENCE\n\nStaff Platform Engineer |...",
+        "DevOps / Platform Engineer with 8 years experience in cloud infrastructure, Kubernetes, and SRE practices. \nBuilt and managed infrastructure for systems handling millions of concurrent users.",
+        "Staff Platform Engineer | Amazon Web Services | 2019 \u2013 Present\n- Designed multi-region Kubernetes platform serving 500+ internal engineering teams\n- Led SRE practices achieving 99.99% uptime SLA for critical payment services\n- Built infrastructure-as-code frameworks (Terraform + CDK) adopted by 200+..."
+      ],
+      "reasoning": "David Kim (Staff/Principal, ~11 yrs exp, Masters) | Matched skills: Python, R, Aws, Gcp, Azure, Kubernetes, Docker | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 11.5,
+        "keyword_required": 12.5,
+        "keyword_preferred": 6.7,
+        "seniority": 3.0,
+        "education": 3.3,
+        "raw_semantic": 0.23,
+        "raw_keyword_req": 0.417
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 11,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Olivia Davis",
+      "resume_path": "resumes\\olivia_davis.txt",
+      "match_score": 35.7,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Deep Learning",
+        "Pytorch",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "OLIVIA DAVIS\nolivia.davis@email.com | (617) 555-1515 | Cambridge, MA\n\nSUMMARY\nBiomedical Data Scientist with PhD in Computational Biology. \nExpert in genomics, bioinformatics, and ML applications in drug discovery.\nPublished 12 peer-reviewed papers in Nature, Cell, and PLOS Computational Biology.\n\nE...",
+        "Senior Computational Scientist | Broad Institute | 2021 \u2013 Present\n- Developed deep learning model for predicting CRISPR off-target effects (Nature Biotechnology)\n- Built single-cell RNA sequencing analysis pipeline processing 1M+ cells\n- Applied transformer models to protein structure prediction (Al...",
+        "Bioinformatics: GATK, STAR, DESeq2, Seurat, Scanpy, BioConductor\nLanguages: Python, R, Bash, Perl\nML: PyTorch, scikit-learn, deep learning, graph neural networks\nGenomics: WGS/WES, scRNA-seq, ATAC-seq, ChIP-seq, metagenomics\nCloud: AWS, Google Cloud Life Sciences"
+      ],
+      "reasoning": "Olivia Davis (Senior, ~7 yrs exp, PhD) | Matched skills: Python, R, Deep Learning, Pytorch, Aws | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 13.2,
+        "keyword_required": 12.5,
+        "keyword_preferred": 0.0,
+        "seniority": 5.0,
+        "education": 5.0,
+        "raw_semantic": 0.264,
+        "raw_keyword_req": 0.417
+      },
+      "seniority": "Senior",
+      "experience_years": 7,
+      "education_level": "PhD",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Frank Nguyen",
+      "resume_path": "resumes\\frank_nguyen.txt",
+      "match_score": 35.1,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Aws",
+        "Gcp",
+        "Kubernetes",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "Backend Software Engineer with 4 years of experience specializing in distributed systems and API development.\nExpert in Java, Go, and microservices architecture. Experience with high-throughput financial systems.",
+        "FRANK NGUYEN\nfrank.nguyen@email.com | (408) 555-0606 | San Jose, CA\n\nSUMMARY\nBackend Software Engineer with 4 years of experience specializing in distributed systems and API development.\nExpert in Java, Go, and microservices architecture. Experience with high-throughput financial systems.\n\nEXPERIENC..."
+      ],
+      "reasoning": "Frank Nguyen (Senior, ~6 yrs exp, Masters) | Matched skills: Python, R, Aws, Gcp, Kubernetes, Docker | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 10.1,
+        "keyword_required": 10.0,
+        "keyword_preferred": 6.7,
+        "seniority": 5.0,
+        "education": 3.3,
+        "raw_semantic": 0.201,
+        "raw_keyword_req": 0.333
+      },
+      "seniority": "Senior",
+      "experience_years": 6,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Tina Patel",
+      "resume_path": "resumes\\tina_patel.txt",
+      "match_score": 33.9,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Nlp",
+        "Llm",
+        "Mlops"
+      ],
+      "relevant_excerpts": [
+        "NLP Engineer with 5 years specializing in conversational AI and language models.\nBuilt production chatbots and NLP systems serving millions of users. \nExpert in Hugging Face, LangChain, and LLM fine-tuning.",
+        "TINA PATEL\ntina.patel@email.com | (408) 555-2020 | Sunnyvale, CA\n\nSUMMARY\nNLP Engineer with 5 years specializing in conversational AI and language models.\nBuilt production chatbots and NLP systems serving millions of users. \nExpert in Hugging Face, LangChain, and LLM fine-tuning.\n\nEXPERIENCE\n\nSenior...",
+        "Senior NLP Engineer | Apple | 2021 \u2013 Present\n- Led development of Siri intent classification system (BERT-based, 95% accuracy)\n- Fine-tuned LLMs for domain-specific Q&A reducing hallucination by 60%\n- Built RAG (Retrieval-Augmented Generation) pipeline for Siri Knowledge\n- Optimized transformer mode..."
+      ],
+      "reasoning": "Tina Patel (Senior, ~8 yrs exp, Masters) | Matched skills: Python, R, Nlp, Llm, Mlops | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 12.3,
+        "keyword_required": 10.0,
+        "keyword_preferred": 3.3,
+        "seniority": 5.0,
+        "education": 3.3,
+        "raw_semantic": 0.245,
+        "raw_keyword_req": 0.333
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Carol Johnson",
+      "resume_path": "resumes\\carol_johnson.txt",
+      "match_score": 33.2,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Aws",
+        "Gcp",
+        "Azure"
+      ],
+      "relevant_excerpts": [
+        "Data Engineer with 6 years of experience designing and maintaining large-scale data pipelines.\nExpert in Spark, Kafka, and cloud data warehousing. Strong background in data modeling.",
+        "CAROL JOHNSON\ncarol.johnson@email.com | (212) 555-0303 | New York, NY\n\nSUMMARY\nData Engineer with 6 years of experience designing and maintaining large-scale data pipelines.\nExpert in Spark, Kafka, and cloud data warehousing. Strong background in data modeling.\n\nEXPERIENCE\n\nSenior Data Engineer | JP...",
+        "Senior Data Engineer | JPMorgan Chase | 2021 \u2013 Present\n- Architected real-time risk analytics platform processing 5TB/day using Apache Kafka and Spark Streaming\n- Built data lakehouse on AWS (S3 + Delta Lake) replacing legacy Oracle data warehouse\n- Reduced data pipeline failures by 70% through robu..."
+      ],
+      "reasoning": "Carol Johnson (Senior, ~9 yrs exp, Masters) | Matched skills: Python, R, Aws, Gcp, Azure | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 12.4,
+        "keyword_required": 12.5,
+        "keyword_preferred": 0.0,
+        "seniority": 5.0,
+        "education": 3.3,
+        "raw_semantic": 0.247,
+        "raw_keyword_req": 0.417
+      },
+      "seniority": "Senior",
+      "experience_years": 9,
+      "education_level": "Masters",
+      "filter_failures": []
+    }
+  ],
+  "latency_ms": 41.4,
+  "timestamp": "2026-03-12T16:48:49.293951"
+}

@@ -1,0 +1,29 @@
+CARLOS MENDEZ
+carlos.mendez@email.com | (786) 555-2929 | Miami, FL
+
+SUMMARY
+iOS Developer with 6 years building mobile applications for healthcare and fintech.
+Expert in Swift, SwiftUI, and HIPAA-compliant mobile development. App Store top-10 developer.
+
+EXPERIENCE
+
+Lead iOS Developer | Teladoc Health | 2021 – Present
+- Built telehealth platform iOS app (Swift, SwiftUI) with 5M+ downloads
+- Implemented end-to-end encrypted video consultations (WebRTC)
+- Developed HIPAA-compliant data storage and transmission layer
+- Reduced app crashes by 85% through systematic crash reporting analysis
+
+iOS Developer | Chime | 2018 – 2021
+- Built core banking features (account management, payments, P2P transfers) for 12M users
+- Implemented biometric authentication (Face ID, Touch ID) with Keychain security
+- Contributed to design system (60+ reusable Swift components)
+
+EDUCATION
+B.S. Computer Science | Florida International University | 2018
+
+SKILLS
+iOS: Swift (expert), SwiftUI, UIKit, Combine, Core Data, HealthKit
+Security: Keychain, certificate pinning, HIPAA, PCI-DSS for mobile
+Networking: REST, GraphQL, WebRTC, URLSession
+Testing: XCTest, Quick/Nimble, UI Testing, TestFlight
+Tools: Xcode, Instruments, Firebase, Fastlane, GitHub Actions

@@ -1,0 +1,34 @@
+CAROL JOHNSON
+carol.johnson@email.com | (212) 555-0303 | New York, NY
+
+SUMMARY
+Data Engineer with 6 years of experience designing and maintaining large-scale data pipelines.
+Expert in Spark, Kafka, and cloud data warehousing. Strong background in data modeling.
+
+EXPERIENCE
+
+Senior Data Engineer | JPMorgan Chase | 2021 – Present
+- Architected real-time risk analytics platform processing 5TB/day using Apache Kafka and Spark Streaming
+- Built data lakehouse on AWS (S3 + Delta Lake) replacing legacy Oracle data warehouse
+- Reduced data pipeline failures by 70% through robust monitoring with DataDog and PagerDuty
+- Designed dimensional data models for regulatory reporting (Basel III compliance)
+
+Data Engineer | Bloomberg LP | 2018 – 2021
+- Maintained ETL pipelines for financial market data across 150+ exchanges
+- Migrated on-premise Hadoop cluster to GCP (Dataproc + BigQuery), saving $2M/year
+- Built self-service data catalog using Apache Atlas
+
+Data Analyst | Deloitte | 2017 – 2018
+- Created Power BI dashboards for Fortune 500 client analytics
+- Automated Excel-based reporting with Python, saving 20 hours/week
+
+EDUCATION
+M.S. Data Science | Columbia University | 2017
+B.S. Statistics | NYU Stern School of Business | 2015
+
+SKILLS
+Languages: Python, Scala, SQL, Java
+Big Data: Apache Spark, Kafka, Flink, Hadoop, Hive
+Cloud: AWS (Glue, EMR, Redshift), GCP (BigQuery, Dataflow), Azure Synapse
+Databases: PostgreSQL, Snowflake, Delta Lake, Cassandra
+Orchestration: Airflow, Prefect, dbt

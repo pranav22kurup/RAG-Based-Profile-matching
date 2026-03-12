@@ -1,0 +1,374 @@
+{
+  "job_description": "Job Title: Full-Stack Software Engineer\nCompany: PayStream Inc.\nLocation: New York, NY (Remote-friendly)\n\nAbout the Role:\nPayStream is building the next generation of B2B payment infrastructure. \nWe need a skilled Full-Stack Engineer to build customer-facing dashboards and backend APIs.\n\nResponsibil...",
+  "jd_required_skills": [
+    "python",
+    "typescript",
+    "go",
+    "r",
+    "sql",
+    "aws",
+    "react",
+    "node.js",
+    "fastapi",
+    "django",
+    "flask",
+    "graphql",
+    "rest",
+    "typescript",
+    "postgresql",
+    "redis"
+  ],
+  "jd_preferred_skills": [
+    "kafka",
+    "docker"
+  ],
+  "total_candidates_evaluated": 33,
+  "top_matches": [
+    {
+      "candidate_name": "Bob Martinez",
+      "resume_path": "resumes\\bob_martinez.txt",
+      "match_score": 57.5,
+      "matched_skills": [
+        "Python",
+        "Typescript",
+        "Go",
+        "R",
+        "Sql",
+        "Aws",
+        "Docker",
+        "React",
+        "Node.Js",
+        "Graphql",
+        "Rest",
+        "Typescript",
+        "Postgresql",
+        "Redis"
+      ],
+      "relevant_excerpts": [
+        "BOB MARTINEZ\nbob.martinez@email.com | (512) 555-0202 | Austin, TX\n\nSUMMARY\nFull-Stack Software Engineer with 5 years experience in React, Node.js, and cloud infrastructure. \nPassionate about building scalable web applications and developer tooling.\n\nEXPERIENCE\n\nSenior Software Engineer | Stripe | 20...",
+        "Full-Stack Software Engineer with 5 years experience in React, Node.js, and cloud infrastructure. \nPassionate about building scalable web applications and developer tooling.",
+        "Frontend: React, TypeScript, Next.js, Vue.js, HTML/CSS\nBackend: Node.js, Python, Go, Java, .NET Core\nDatabases: PostgreSQL, MongoDB, Redis, Elasticsearch\nDevOps: AWS, Docker, Kubernetes, Terraform, Jenkins\nTesting: Jest, Cypress, Selenium"
+      ],
+      "reasoning": "Bob Martinez (Senior, ~8 yrs exp, Masters) | Matched skills: Python, Typescript, Go, R, Sql, Aws, Docker, React, Node.Js, Graphql | Moderate semantic alignment with job description. | Covers most required skills.",
+      "score_breakdown": {
+        "semantic": 20.7,
+        "keyword_required": 24.4,
+        "keyword_preferred": 5.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.413,
+        "raw_keyword_req": 0.812
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Samuel Thompson",
+      "resume_path": "resumes\\samuel_thompson.txt",
+      "match_score": 52.6,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Sql",
+        "Aws",
+        "Docker",
+        "React",
+        "Fastapi",
+        "Django",
+        "Flask",
+        "Rest",
+        "Postgresql",
+        "Redis"
+      ],
+      "relevant_excerpts": [
+        "SAMUEL THOMPSON\nsamuel.thompson@email.com | (202) 555-1919 | Washington, DC\n\nSUMMARY\nSoftware Engineer with 3 years experience specializing in Python backend development and REST API design.\nRecent graduate passionate about clean code, test-driven development, and open-source contributions.\n\nEXPERIE...",
+        "Software Engineer with 3 years experience specializing in Python backend development and REST API design.\nRecent graduate passionate about clean code, test-driven development, and open-source contributions.",
+        "Software Engineer | Palantir Technologies | 2022 \u2013 Present\n- Built data pipeline APIs for government analytics platform (Python, FastAPI)\n- Developed ETL jobs processing classified datasets (clearance required)\n- Wrote comprehensive unit and integration tests (95% code coverage)\n- Participated in on..."
+      ],
+      "reasoning": "Samuel Thompson (Mid, ~4 yrs exp, Masters) | Matched skills: Python, Go, R, Sql, Aws, Docker, React, Fastapi, Django, Flask | Moderate semantic alignment with job description. | Covers most required skills.",
+      "score_breakdown": {
+        "semantic": 17.6,
+        "keyword_required": 22.5,
+        "keyword_preferred": 5.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.352,
+        "raw_keyword_req": 0.75
+      },
+      "seniority": "Mid",
+      "experience_years": 4,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Frank Nguyen",
+      "resume_path": "resumes\\frank_nguyen.txt",
+      "match_score": 50.7,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Sql",
+        "Kafka",
+        "Aws",
+        "Docker",
+        "Rest",
+        "Postgresql",
+        "Redis"
+      ],
+      "relevant_excerpts": [
+        "FRANK NGUYEN\nfrank.nguyen@email.com | (408) 555-0606 | San Jose, CA\n\nSUMMARY\nBackend Software Engineer with 4 years of experience specializing in distributed systems and API development.\nExpert in Java, Go, and microservices architecture. Experience with high-throughput financial systems.\n\nEXPERIENC...",
+        "Backend Software Engineer with 4 years of experience specializing in distributed systems and API development.\nExpert in Java, Go, and microservices architecture. Experience with high-throughput financial systems.",
+        "Software Engineer II | PayPal | 2022 \u2013 Present\n- Built payment processing microservices handling $500M in daily transactions\n- Designed gRPC APIs with 99.99% availability using Circuit Breaker patterns\n- Implemented event-driven architecture with Apache Kafka for audit logging\n- Improved API respons..."
+      ],
+      "reasoning": "Frank Nguyen (Senior, ~6 yrs exp, Masters) | Matched skills: Python, Go, R, Sql, Kafka, Aws, Docker, Rest, Postgresql, Redis | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 18.2,
+        "keyword_required": 15.0,
+        "keyword_preferred": 10.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.365,
+        "raw_keyword_req": 0.5
+      },
+      "seniority": "Senior",
+      "experience_years": 6,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Zoe Williams",
+      "resume_path": "resumes\\zoe_williams.txt",
+      "match_score": 44.7,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Sql",
+        "Kafka",
+        "Aws",
+        "Docker",
+        "Postgresql",
+        "Redis"
+      ],
+      "relevant_excerpts": [
+        "ZOE WILLIAMS\nzoe.williams@email.com | (646) 555-2626 | Brooklyn, NY\n\nSUMMARY\nStaff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture.\n\nEXPERIENCE\n\nStaff Engineer | Spotify | 2...",
+        "Staff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture.",
+        "Languages: Scala, Java, Python, Go, SQL\nDistributed Systems: Kafka, Flink, Spark, ZooKeeper, etcd\nDatabases: PostgreSQL, Cassandra, Redis, ClickHouse\nCloud: AWS, GCP, Kubernetes, Docker\nSystem Design: Microservices, Event-driven, CQRS, saga patterns"
+      ],
+      "reasoning": "Zoe Williams (Staff/Principal, ~12 yrs exp, Masters) | Matched skills: Python, Go, R, Sql, Kafka, Aws, Docker, Postgresql, Redis | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 14.0,
+        "keyword_required": 13.1,
+        "keyword_preferred": 10.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.281,
+        "raw_keyword_req": 0.438
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 12,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Ethan Ross",
+      "resume_path": "resumes\\ethan_ross.txt",
+      "match_score": 44.5,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Sql",
+        "Docker",
+        "React",
+        "Node.Js",
+        "Postgresql"
+      ],
+      "relevant_excerpts": [
+        "ETHAN ROSS\nethan.ross@email.com | (704) 555-3131 | Charlotte, NC\n\nSUMMARY\nJunior Full-Stack Developer with 2 years experience and strong skills in React and Node.js.\nCS bootcamp graduate turned professional. Quick learner; built 3 side projects in production.\n\nEXPERIENCE\n\nSoftware Developer | Bank o...",
+        "Junior Full-Stack Developer with 2 years experience and strong skills in React and Node.js.\nCS bootcamp graduate turned professional. Quick learner; built 3 side projects in production.",
+        "Software Developer | Bank of America | 2022 \u2013 Present\n- Developed internal risk reporting tool (React + Node.js + PostgreSQL)\n- Fixed 150+ bugs in legacy Java banking applications\n- Contributed to agile team; completed sprint tasks consistently ahead of schedule\n\nSoftware Developer Intern | LendingT..."
+      ],
+      "reasoning": "Ethan Ross (Mid, ~4 yrs exp, Bachelors) | Matched skills: Python, Go, R, Sql, Docker, React, Node.Js, Postgresql | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 18.9,
+        "keyword_required": 13.1,
+        "keyword_preferred": 5.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.377,
+        "raw_keyword_req": 0.438
+      },
+      "seniority": "Mid",
+      "experience_years": 4,
+      "education_level": "Bachelors",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "David Kim",
+      "resume_path": "resumes\\david_kim.txt",
+      "match_score": 33.9,
+      "matched_skills": [
+        "Python",
+        "Typescript",
+        "Go",
+        "R",
+        "Aws",
+        "Docker",
+        "Typescript"
+      ],
+      "relevant_excerpts": [
+        "DevOps / Platform Engineer with 8 years experience in cloud infrastructure, Kubernetes, and SRE practices. \nBuilt and managed infrastructure for systems handling millions of concurrent users.",
+        "DAVID KIM\ndavid.kim@email.com | (206) 555-0404 | Seattle, WA\n\nSUMMARY\nDevOps / Platform Engineer with 8 years experience in cloud infrastructure, Kubernetes, and SRE practices. \nBuilt and managed infrastructure for systems handling millions of concurrent users.\n\nEXPERIENCE\n\nStaff Platform Engineer |...",
+        "Staff Platform Engineer | Amazon Web Services | 2019 \u2013 Present\n- Designed multi-region Kubernetes platform serving 500+ internal engineering teams\n- Led SRE practices achieving 99.99% uptime SLA for critical payment services\n- Built infrastructure-as-code frameworks (Terraform + CDK) adopted by 200+..."
+      ],
+      "reasoning": "David Kim (Staff/Principal, ~11 yrs exp, Masters) | Matched skills: Python, Typescript, Go, R, Aws, Docker, Typescript | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 10.2,
+        "keyword_required": 11.2,
+        "keyword_preferred": 5.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.203,
+        "raw_keyword_req": 0.375
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 11,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Carol Johnson",
+      "resume_path": "resumes\\carol_johnson.txt",
+      "match_score": 33.4,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Sql",
+        "Kafka",
+        "Aws",
+        "Postgresql"
+      ],
+      "relevant_excerpts": [
+        "CAROL JOHNSON\ncarol.johnson@email.com | (212) 555-0303 | New York, NY\n\nSUMMARY\nData Engineer with 6 years of experience designing and maintaining large-scale data pipelines.\nExpert in Spark, Kafka, and cloud data warehousing. Strong background in data modeling.\n\nEXPERIENCE\n\nSenior Data Engineer | JP...",
+        "Data Engineer with 6 years of experience designing and maintaining large-scale data pipelines.\nExpert in Spark, Kafka, and cloud data warehousing. Strong background in data modeling.",
+        "Senior Data Engineer | JPMorgan Chase | 2021 \u2013 Present\n- Architected real-time risk analytics platform processing 5TB/day using Apache Kafka and Spark Streaming\n- Built data lakehouse on AWS (S3 + Delta Lake) replacing legacy Oracle data warehouse\n- Reduced data pipeline failures by 70% through robu..."
+      ],
+      "reasoning": "Carol Johnson (Senior, ~9 yrs exp, Masters) | Matched skills: Python, R, Sql, Kafka, Aws, Postgresql | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 11.6,
+        "keyword_required": 9.4,
+        "keyword_preferred": 5.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.231,
+        "raw_keyword_req": 0.312
+      },
+      "seniority": "Senior",
+      "experience_years": 9,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Brenda Foster",
+      "resume_path": "resumes\\brenda_foster.txt",
+      "match_score": 32.2,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Sql",
+        "Kafka",
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "Machine Learning Engineer with 4 years experience deploying ML models to production.\nExpert in MLOps, model serving, and real-time ML systems. Strong Python and cloud skills.",
+        "BRENDA FOSTER\nbrenda.foster@email.com | (612) 555-2828 | Minneapolis, MN\n\nSUMMARY\nMachine Learning Engineer with 4 years experience deploying ML models to production.\nExpert in MLOps, model serving, and real-time ML systems. Strong Python and cloud skills.\n\nEXPERIENCE\n\nML Engineer | Target Corporati..."
+      ],
+      "reasoning": "Brenda Foster (Senior, ~6 yrs exp, Masters) | Matched skills: Python, R, Sql, Kafka, Aws, Docker | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 7.2,
+        "keyword_required": 7.5,
+        "keyword_preferred": 10.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.143,
+        "raw_keyword_req": 0.25
+      },
+      "seniority": "Senior",
+      "experience_years": 6,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "George Walker",
+      "resume_path": "resumes\\george_walker.txt",
+      "match_score": 29.0,
+      "matched_skills": [
+        "Python",
+        "Typescript",
+        "Go",
+        "R",
+        "Sql",
+        "Aws",
+        "Typescript"
+      ],
+      "relevant_excerpts": [
+        "GEORGE WALKER\ngeorge.walker@email.com | (415) 555-3333 | San Francisco, CA\n\nSUMMARY\nAI/ML Product Engineer with 6 years bridging ML research and production systems.\nExpert in LLM applications, prompt engineering, and AI product development.\nBuilt AI products used by 5M+ users at leading tech compani...",
+        "AI Engineer | Anthropic | 2023 \u2013 Present\n- Built Claude API integrations and developer tooling for enterprise customers\n- Designed evaluation frameworks for LLM safety and capability assessment\n- Developed retrieval-augmented generation (RAG) systems for document Q&A\n- Contributed to Constitutional...",
+        "AI/ML Product Engineer with 6 years bridging ML research and production systems.\nExpert in LLM applications, prompt engineering, and AI product development.\nBuilt AI products used by 5M+ users at leading tech companies."
+      ],
+      "reasoning": "George Walker (Senior, ~8 yrs exp, Masters) | Matched skills: Python, Typescript, Go, R, Sql, Aws, Typescript | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 8.4,
+        "keyword_required": 13.1,
+        "keyword_preferred": 0.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.167,
+        "raw_keyword_req": 0.438
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Alice Chen",
+      "resume_path": "resumes\\alice_chen.txt",
+      "match_score": 28.7,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Sql",
+        "Aws",
+        "Docker"
+      ],
+      "relevant_excerpts": [
+        "Senior Machine Learning Engineer with 7 years of experience building production ML systems. \nExpert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.",
+        "ALICE CHEN\nalice.chen@email.com | (415) 555-0101 | San Francisco, CA | linkedin.com/in/alicechen\n\nSUMMARY\nSenior Machine Learning Engineer with 7 years of experience building production ML systems. \nExpert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.\n\nEXPERIENCE..."
+      ],
+      "reasoning": "Alice Chen (Staff/Principal, ~10 yrs exp, Masters) | Matched skills: Python, Go, R, Sql, Aws, Docker | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 6.8,
+        "keyword_required": 9.4,
+        "keyword_preferred": 5.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.136,
+        "raw_keyword_req": 0.312
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 10,
+      "education_level": "Masters",
+      "filter_failures": []
+    }
+  ],
+  "latency_ms": 34.1,
+  "timestamp": "2026-03-12T16:48:48.935985"
+}

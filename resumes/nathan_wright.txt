@@ -1,0 +1,31 @@
+NATHAN WRIGHT
+nathan.wright@email.com | (404) 555-1414 | Atlanta, GA
+
+SUMMARY
+Software Engineering Manager with 10+ years total experience (6 years engineering, 4 years management).
+Led teams of 8-15 engineers delivering B2B SaaS products. Strong in agile delivery and team development.
+
+EXPERIENCE
+
+Engineering Manager | Salesforce | 2021 – Present
+- Manage 3 teams (15 engineers) across CRM analytics product line ($50M ARR)
+- Reduced time-to-production from 3 weeks to 4 days through process improvements
+- Grew team from 8 to 15 through successful hiring and retention (0% attrition)
+- Partnered with product and design to define multi-year technical roadmap
+
+Senior Engineering Manager | NCR | 2019 – 2021
+- Led platform engineering team (8 engineers) building POS software for retail
+- Drove adoption of agile practices across 5 engineering teams
+- Delivered $3M cost savings through technical debt reduction initiative
+
+Software Engineer | NCR | 2013 – 2019
+- Senior engineer → Tech lead → Manager progression
+- Built transaction processing systems in Java and Python
+
+EDUCATION
+B.S. Computer Science | Georgia Tech | 2013
+
+SKILLS
+Leadership: Team building, Performance management, Roadmapping, Agile/Scrum, OKRs
+Technical: Java, Python, AWS, microservices, system design
+Tools: JIRA, Confluence, GitHub, DataDog, PagerDuty

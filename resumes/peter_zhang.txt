@@ -1,0 +1,29 @@
+PETER ZHANG
+peter.zhang@email.com | (415) 555-1616 | San Francisco, CA
+
+SUMMARY
+Blockchain/Web3 Engineer with 5 years experience building DeFi protocols and smart contracts.
+Deployed smart contracts handling $500M+ in TVL. Expert in Solidity, Rust, and DeFi architecture.
+
+EXPERIENCE
+
+Lead Smart Contract Engineer | Compound Finance | 2022 – Present
+- Architected Compound III lending protocol (Solidity) managing $1B+ in assets
+- Conducted security audits and implemented formal verification using Certora
+- Built governance systems for on-chain voting with 50,000+ token holders
+- Led 3-engineer team; managed $5M bug bounty program
+
+Blockchain Engineer | Consensys | 2019 – 2022
+- Developed DeFi primitives: AMMs, yield farming, staking contracts
+- Built cross-chain bridges (Ethereum ↔ Polygon ↔ Arbitrum)
+- Created developer tooling and SDKs for Ethereum ecosystem
+
+EDUCATION
+B.S. Computer Science | UC Berkeley | 2019
+
+SKILLS
+Smart Contracts: Solidity (expert), Vyper, Rust (Solana/Anchor)
+Web3: Ethereum, Layer 2 (Arbitrum, Optimism, zkSync), Solana
+Tools: Hardhat, Foundry, Truffle, OpenZeppelin, TheGraph
+Frontend: TypeScript, ethers.js, wagmi, Next.js
+Security: Formal verification, Audit tools (Slither, Mythril), CTF

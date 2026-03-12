@@ -1,0 +1,30 @@
+FRANK NGUYEN
+frank.nguyen@email.com | (408) 555-0606 | San Jose, CA
+
+SUMMARY
+Backend Software Engineer with 4 years of experience specializing in distributed systems and API development.
+Expert in Java, Go, and microservices architecture. Experience with high-throughput financial systems.
+
+EXPERIENCE
+
+Software Engineer II | PayPal | 2022 – Present
+- Built payment processing microservices handling $500M in daily transactions
+- Designed gRPC APIs with 99.99% availability using Circuit Breaker patterns
+- Implemented event-driven architecture with Apache Kafka for audit logging
+- Improved API response time by 35% through caching with Redis
+
+Software Engineer | Cisco | 2020 – 2022
+- Developed network configuration management APIs using Spring Boot and Java
+- Built automated testing framework reducing QA cycle from 2 weeks to 3 days
+- Contributed to open-source networking libraries
+
+EDUCATION
+B.S. Computer Engineering | UC Santa Clara | 2020
+
+SKILLS
+Languages: Java (expert), Go, Python, SQL
+Frameworks: Spring Boot, Gin, gRPC, REST
+Databases: PostgreSQL, MySQL, Redis, Cassandra
+Messaging: Apache Kafka, RabbitMQ
+Cloud: AWS, GCP, Docker, Kubernetes
+Testing: JUnit, Mockito, TestContainers

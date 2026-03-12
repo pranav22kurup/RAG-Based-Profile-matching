@@ -1,0 +1,29 @@
+BRENDA FOSTER
+brenda.foster@email.com | (612) 555-2828 | Minneapolis, MN
+
+SUMMARY
+Machine Learning Engineer with 4 years experience deploying ML models to production.
+Expert in MLOps, model serving, and real-time ML systems. Strong Python and cloud skills.
+
+EXPERIENCE
+
+ML Engineer | Target Corporation | 2021 – Present
+- Built recommendation system serving 2M+ daily users (matrix factorization + deep learning)
+- Deployed 15+ ML models to production using Kubernetes and Seldon Core
+- Built feature platform processing 50M+ events/day with Feast feature store
+- Reduced model training time by 70% through distributed training on AWS SageMaker
+
+ML Engineer | 3M | 2020 – 2021
+- Deployed computer vision model for manufacturing quality control (98% defect detection)
+- Built ML pipeline on Azure ML for materials science research team
+
+EDUCATION
+M.S. Computer Science | University of Minnesota | 2020
+B.S. Software Engineering | Purdue University | 2018
+
+SKILLS
+ML/DL: PyTorch, TensorFlow, scikit-learn, XGBoost, Hugging Face
+MLOps: MLflow, Kubeflow, Seldon, BentoML, Feast, Airflow
+Cloud: AWS SageMaker, Azure ML, GCP Vertex AI
+Languages: Python, SQL, Bash
+Infra: Kubernetes, Docker, Spark, Kafka

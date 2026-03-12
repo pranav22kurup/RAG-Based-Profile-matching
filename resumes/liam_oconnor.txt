@@ -1,0 +1,32 @@
+LIAM O'CONNOR
+liam.oconnor@email.com | (415) 555-1212 | San Francisco, CA
+
+SUMMARY
+Mobile Engineer (iOS/Android) with 6 years of experience building consumer apps with millions of downloads.
+Expert in Swift, Kotlin, and React Native. Strong focus on performance and user experience.
+
+EXPERIENCE
+
+Senior iOS Engineer | Lyft | 2021 – Present
+- Led development of driver app used by 1M+ drivers daily (Swift, SwiftUI)
+- Reduced app startup time by 50% through lazy loading and optimization
+- Built real-time mapping features using MapKit and custom rendering
+- Mentored 3 junior iOS engineers; led architectural decisions
+
+Mobile Engineer | Snapchat | 2018 – 2021
+- Developed AR features (Lenses) for iOS platform (50M+ daily active users)
+- Integrated ML models on-device using Core ML and Metal
+- Optimized memory usage reducing crashes by 40%
+
+Junior Developer | Yelp | 2017 – 2018
+- Built restaurant discovery features for iOS app (35M MAU)
+
+EDUCATION
+B.S. Computer Science | University of Southern California | 2017
+
+SKILLS
+iOS: Swift, SwiftUI, UIKit, Core Data, Core ML, ARKit, MapKit
+Android: Kotlin, Jetpack Compose, Coroutines, Room
+Cross-platform: React Native, Flutter
+Tools: Xcode, Android Studio, Instruments, Fastlane, Firebase
+Architecture: MVVM, Clean Architecture, Combine/RxSwift

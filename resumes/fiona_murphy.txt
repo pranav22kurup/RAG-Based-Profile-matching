@@ -1,0 +1,33 @@
+FIONA MURPHY
+fiona.murphy@email.com | (857) 555-3232 | Boston, MA
+
+SUMMARY
+Data Platform Engineer with 7 years building modern data infrastructure for analytics teams.
+Expert in dbt, Snowflake, and data modeling. Transitioned from data analyst to engineering.
+
+EXPERIENCE
+
+Senior Analytics Engineer | DraftKings | 2021 – Present
+- Owns core dbt project (500+ models) generating $180M sports betting analytics
+- Built real-time odds analytics pipeline using Snowflake Dynamic Tables and Kafka
+- Designed semantic layer enabling self-service analytics for 150+ business users
+- Mentored team of 3 junior analytics engineers
+
+Analytics Engineer | Wayfair | 2018 – 2021
+- Migrated from Redshift to Snowflake, reducing query costs by 50%
+- Built furniture recommendation data models powering A/B testing
+- Created standardized data quality testing framework (dbt tests + Great Expectations)
+
+Data Analyst | Liberty Mutual | 2016 – 2018
+- Analyzed insurance claims data using SQL and Python
+- Built Tableau dashboards for actuarial team
+
+EDUCATION
+B.S. Mathematics | Boston College | 2016
+
+SKILLS
+Data Modeling: dbt (expert), dimensional modeling, Kimball methodology
+Warehouses: Snowflake, BigQuery, Redshift, Databricks
+Languages: SQL (expert), Python, dbt Jinja/Macros
+Orchestration: Airflow, Prefect, dbt Cloud
+Visualization: Tableau, Looker, Metabase, Mode

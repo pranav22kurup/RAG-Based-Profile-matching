@@ -1,0 +1,34 @@
+KATHERINE LEE
+katherine.lee@email.com | (206) 555-1111 | Seattle, WA
+
+SUMMARY
+Cloud Architect with 10 years of experience designing enterprise-scale AWS and Azure solutions.
+AWS Solutions Architect Professional and Azure Solutions Architect Expert certified.
+Specialized in cloud migration, cost optimization, and well-architected frameworks.
+
+EXPERIENCE
+
+Principal Cloud Architect | Microsoft | 2019 – Present
+- Led cloud strategy for 50+ enterprise clients migrating to Azure (avg $10M+ workloads)
+- Designed globally distributed architecture for Fortune 100 retail client (3-region active-active)
+- Developed Azure landing zone accelerator used by 300+ customers
+- Saved clients average 35% on cloud costs through FinOps best practices
+
+Senior Cloud Architect | Deloitte | 2016 – 2019
+- Architected HIPAA-compliant cloud infrastructure for major health insurer
+- Led AWS migration for financial services firm, achieving PCI-DSS compliance
+- Delivered 20+ cloud architecture workshops and training sessions
+
+Systems Engineer | HP | 2013 – 2016
+- Managed on-premise data center infrastructure (1,000+ servers)
+
+EDUCATION
+B.S. Computer Science | University of Michigan | 2013
+
+SKILLS
+Cloud Platforms: AWS (expert), Azure (expert), GCP
+Architecture: Microservices, Serverless, Event-driven, Multi-cloud
+IaC: Terraform, ARM/Bicep, AWS CDK, CloudFormation
+Networking: VPC design, DNS, CDN, VPN, Direct Connect
+Security: IAM, KMS, WAF, Zero Trust
+CERTIFICATIONS: AWS SA Professional | Azure SA Expert | GCP Professional | TOGAF

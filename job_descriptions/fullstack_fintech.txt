@@ -1,0 +1,32 @@
+Job Title: Full-Stack Software Engineer
+Company: PayStream Inc.
+Location: New York, NY (Remote-friendly)
+
+About the Role:
+PayStream is building the next generation of B2B payment infrastructure. 
+We need a skilled Full-Stack Engineer to build customer-facing dashboards and backend APIs.
+
+Responsibilities:
+- Build and maintain React-based web applications for merchant and admin dashboards
+- Design RESTful and GraphQL APIs in Node.js or Python
+- Implement secure payment processing flows following PCI-DSS standards
+- Optimize database queries and design schemas for PostgreSQL and Redis
+- Write comprehensive unit and integration tests
+- Participate in code reviews and agile sprint ceremonies
+
+Required Qualifications:
+- 3+ years of full-stack web development experience
+- Strong proficiency in React and TypeScript
+- Backend experience with Node.js or Python (FastAPI/Django/Flask)
+- Database experience with PostgreSQL and Redis
+- Understanding of REST API design principles
+- Experience with cloud platforms (AWS preferred)
+- Familiarity with Docker and CI/CD pipelines
+
+Preferred Qualifications:
+- Experience in fintech, payments, or financial services
+- Knowledge of PCI-DSS compliance requirements
+- Experience with GraphQL
+- Apache Kafka or event-driven architecture experience
+
+Compensation: $150,000 - $200,000 + equity

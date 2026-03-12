@@ -1,0 +1,33 @@
+Job Title: Senior Data Engineer
+Company: DataFlow Analytics  
+Location: Chicago, IL or Remote
+
+About the Role:
+DataFlow Analytics is building the data infrastructure for mid-market companies.
+We need a Senior Data Engineer to design and build our core data platform.
+
+Responsibilities:
+- Design and implement scalable data pipelines using Apache Spark and Kafka
+- Build and maintain data lakehouse architecture (Delta Lake or Apache Iceberg)
+- Develop ETL/ELT workflows using Airflow or Prefect
+- Model data for analytics using dbt and dimensional modeling
+- Partner with analytics teams to optimize queries and build reliable data products
+- Implement data quality monitoring and alerting systems
+- Mentor junior data engineers
+
+Required Qualifications:
+- 5+ years of data engineering experience
+- Expert SQL skills and Python programming
+- Strong Apache Spark experience (PySpark or Scala Spark)
+- Experience with cloud data warehouses: Snowflake, BigQuery, or Redshift
+- Data pipeline orchestration with Airflow or similar
+- Experience with data modeling (dimensional, data vault)
+- Cloud platform experience: AWS, GCP, or Azure
+
+Preferred Qualifications:
+- Experience with streaming data (Kafka, Flink)
+- dbt experience for analytics engineering
+- Knowledge of data governance and data cataloging
+- Experience with Delta Lake or Apache Iceberg
+
+Compensation: $160,000 - $210,000 + equity

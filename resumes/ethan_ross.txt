@@ -1,0 +1,28 @@
+ETHAN ROSS
+ethan.ross@email.com | (704) 555-3131 | Charlotte, NC
+
+SUMMARY
+Junior Full-Stack Developer with 2 years experience and strong skills in React and Node.js.
+CS bootcamp graduate turned professional. Quick learner; built 3 side projects in production.
+
+EXPERIENCE
+
+Software Developer | Bank of America | 2022 – Present
+- Developed internal risk reporting tool (React + Node.js + PostgreSQL)
+- Fixed 150+ bugs in legacy Java banking applications
+- Contributed to agile team; completed sprint tasks consistently ahead of schedule
+
+Software Developer Intern | LendingTree | Summer 2022
+- Built loan comparison feature prototype using React
+- Wrote SQL queries for financial analytics reports
+
+EDUCATION
+B.S. Computer Science | UNC Charlotte | 2022
+GPA: 3.5
+
+SKILLS
+Frontend: React, JavaScript, HTML, CSS, Bootstrap
+Backend: Node.js, Express, Python (basic), Java (basic)
+Databases: PostgreSQL, MySQL, MongoDB (basic)
+Tools: Git, GitHub, Docker (basic), JIRA, Postman
+Testing: Jest, React Testing Library

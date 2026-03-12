@@ -1,0 +1,337 @@
+{
+  "job_description": "Job Title: Senior DevOps / Platform Engineer\nCompany: CloudBase Systems\nLocation: Seattle, WA (Hybrid)\n\nAbout the Role:\nCloudBase builds cloud infrastructure tooling used by enterprise engineering teams.\nWe need an experienced Platform Engineer to own our internal developer platform and cloud infras...",
+  "jd_required_skills": [
+    "go",
+    "r",
+    "aws",
+    "kubernetes",
+    "terraform",
+    "devops",
+    "sre"
+  ],
+  "jd_preferred_skills": [
+    "python",
+    "bash",
+    "gcp"
+  ],
+  "total_candidates_evaluated": 31,
+  "top_matches": [
+    {
+      "candidate_name": "William Chen",
+      "resume_path": "resumes\\william_chen.txt",
+      "match_score": 50.1,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Bash",
+        "Aws",
+        "Gcp",
+        "Sre"
+      ],
+      "relevant_excerpts": [
+        "WILLIAM CHEN\nwilliam.chen@email.com | (650) 555-2323 | Palo Alto, CA\n\nSUMMARY\nSite Reliability Engineer with 9 years of experience ensuring reliability and performance of distributed systems.\nExpert in incident management, capacity planning, and observability. Led SRE teams at Google and Meta.\n\nEXPE...",
+        "Reliability: SLA/SLO/SLI design, Error budgets, Chaos engineering, Runbooks\nObservability: Prometheus, Grafana, Jaeger, OpenTelemetry, ELK, Datadog\nCloud: GCP (expert), AWS, on-premise Linux\nProgramming: Go, Python, C++, SQL, Bash\nOn-call: PagerDuty, incident command, post-mortems",
+        "Site Reliability Engineer with 9 years of experience ensuring reliability and performance of distributed systems.\nExpert in incident management, capacity planning, and observability. Led SRE teams at Google and Meta."
+      ],
+      "reasoning": "William Chen (Staff/Principal, ~11 yrs exp, Masters) | Matched skills: Python, Go, R, Bash, Aws, Gcp, Sre | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 16.0,
+        "keyword_required": 17.1,
+        "keyword_preferred": 10.0,
+        "seniority": 3.0,
+        "education": 4.0,
+        "raw_semantic": 0.319,
+        "raw_keyword_req": 0.571
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 11,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Zoe Williams",
+      "resume_path": "resumes\\zoe_williams.txt",
+      "match_score": 48.0,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Aws",
+        "Gcp",
+        "Kubernetes"
+      ],
+      "relevant_excerpts": [
+        "ZOE WILLIAMS\nzoe.williams@email.com | (646) 555-2626 | Brooklyn, NY\n\nSUMMARY\nStaff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture.\n\nEXPERIENCE\n\nStaff Engineer | Spotify | 2...",
+        "Staff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture.",
+        "Staff Engineer | Spotify | 2019 \u2013 Present\n- Technical lead for internal developer platform used by 3,000+ engineers\n- Designed event streaming architecture (Kafka) handling 1T+ events/day for music recommendations\n- Contributed to engineering RFC process improving cross-team alignment\n- Mentored 8 e..."
+      ],
+      "reasoning": "Zoe Williams (Staff/Principal, ~12 yrs exp, Masters) | Matched skills: Python, Go, R, Aws, Gcp, Kubernetes | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 17.2,
+        "keyword_required": 17.1,
+        "keyword_preferred": 6.7,
+        "seniority": 3.0,
+        "education": 4.0,
+        "raw_semantic": 0.343,
+        "raw_keyword_req": 0.571
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 12,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Aaron Mitchell",
+      "resume_path": "resumes\\aaron_mitchell.txt",
+      "match_score": 43.4,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Bash",
+        "Aws",
+        "Gcp",
+        "Terraform"
+      ],
+      "relevant_excerpts": [
+        "AARON MITCHELL\naaron.mitchell@email.com | (214) 555-2727 | Dallas, TX\n\nSUMMARY\nCloud Security Architect with 8 years experience securing cloud-native applications and infrastructure.\nExpert in AWS security, identity management, and compliance automation. AWS CISO Advisory Board member.\n\nEXPERIENCE...",
+        "Cloud Security Architect with 8 years experience securing cloud-native applications and infrastructure.\nExpert in AWS security, identity management, and compliance automation. AWS CISO Advisory Board member.",
+        "Cloud Security: AWS Security Hub, GuardDuty, Azure Defender, GCP SCC\nIdentity: IAM, OAuth 2.0, SAML, PAM, Zero Trust\nCompliance: SOC 2, ISO 27001, FedRAMP, PCI-DSS, HIPAA\nProgramming: Python, Terraform, Bash\nCERTIFICATIONS: CISSP | AWS Security | GCP Security | CCSP"
+      ],
+      "reasoning": "Aaron Mitchell (Staff/Principal, ~10 yrs exp, Bachelors) | Matched skills: Python, R, Bash, Aws, Gcp, Terraform | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 13.6,
+        "keyword_required": 12.9,
+        "keyword_preferred": 10.0,
+        "seniority": 3.0,
+        "education": 4.0,
+        "raw_semantic": 0.271,
+        "raw_keyword_req": 0.429
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 10,
+      "education_level": "Bachelors",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Frank Nguyen",
+      "resume_path": "resumes\\frank_nguyen.txt",
+      "match_score": 43.1,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Aws",
+        "Gcp",
+        "Kubernetes"
+      ],
+      "relevant_excerpts": [
+        "FRANK NGUYEN\nfrank.nguyen@email.com | (408) 555-0606 | San Jose, CA\n\nSUMMARY\nBackend Software Engineer with 4 years of experience specializing in distributed systems and API development.\nExpert in Java, Go, and microservices architecture. Experience with high-throughput financial systems.\n\nEXPERIENC...",
+        "Backend Software Engineer with 4 years of experience specializing in distributed systems and API development.\nExpert in Java, Go, and microservices architecture. Experience with high-throughput financial systems.",
+        "Languages: Java (expert), Go, Python, SQL\nFrameworks: Spring Boot, Gin, gRPC, REST\nDatabases: PostgreSQL, MySQL, Redis, Cassandra\nMessaging: Apache Kafka, RabbitMQ\nCloud: AWS, GCP, Docker, Kubernetes\nTesting: JUnit, Mockito, TestContainers"
+      ],
+      "reasoning": "Frank Nguyen (Senior, ~6 yrs exp, Masters) | Matched skills: Python, Go, R, Aws, Gcp, Kubernetes | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 10.3,
+        "keyword_required": 17.1,
+        "keyword_preferred": 6.7,
+        "seniority": 5.0,
+        "education": 4.0,
+        "raw_semantic": 0.206,
+        "raw_keyword_req": 0.571
+      },
+      "seniority": "Senior",
+      "experience_years": 6,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Brenda Foster",
+      "resume_path": "resumes\\brenda_foster.txt",
+      "match_score": 41.9,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Bash",
+        "Aws",
+        "Gcp",
+        "Kubernetes"
+      ],
+      "relevant_excerpts": [
+        "Machine Learning Engineer with 4 years experience deploying ML models to production.\nExpert in MLOps, model serving, and real-time ML systems. Strong Python and cloud skills.",
+        "BRENDA FOSTER\nbrenda.foster@email.com | (612) 555-2828 | Minneapolis, MN\n\nSUMMARY\nMachine Learning Engineer with 4 years experience deploying ML models to production.\nExpert in MLOps, model serving, and real-time ML systems. Strong Python and cloud skills.\n\nEXPERIENCE\n\nML Engineer | Target Corporati...",
+        "ML Engineer | Target Corporation | 2021 \u2013 Present\n- Built recommendation system serving 2M+ daily users (matrix factorization + deep learning)\n- Deployed 15+ ML models to production using Kubernetes and Seldon Core\n- Built feature platform processing 50M+ events/day with Feast feature store\n- Reduce..."
+      ],
+      "reasoning": "Brenda Foster (Senior, ~6 yrs exp, Masters) | Matched skills: Python, R, Bash, Aws, Gcp, Kubernetes | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 10.1,
+        "keyword_required": 12.9,
+        "keyword_preferred": 10.0,
+        "seniority": 5.0,
+        "education": 4.0,
+        "raw_semantic": 0.201,
+        "raw_keyword_req": 0.429
+      },
+      "seniority": "Senior",
+      "experience_years": 6,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Katherine Lee",
+      "resume_path": "resumes\\katherine_lee.txt",
+      "match_score": 41.3,
+      "matched_skills": [
+        "R",
+        "Aws",
+        "Gcp",
+        "Terraform"
+      ],
+      "relevant_excerpts": [
+        "KATHERINE LEE\nkatherine.lee@email.com | (206) 555-1111 | Seattle, WA\n\nSUMMARY\nCloud Architect with 10 years of experience designing enterprise-scale AWS and Azure solutions.\nAWS Solutions Architect Professional and Azure Solutions Architect Expert certified.\nSpecialized in cloud migration, cost opti...",
+        "Cloud Architect with 10 years of experience designing enterprise-scale AWS and Azure solutions.\nAWS Solutions Architect Professional and Azure Solutions Architect Expert certified.\nSpecialized in cloud migration, cost optimization, and well-architected frameworks.",
+        "Principal Cloud Architect | Microsoft | 2019 \u2013 Present\n- Led cloud strategy for 50+ enterprise clients migrating to Azure (avg $10M+ workloads)\n- Designed globally distributed architecture for Fortune 100 retail client (3-region active-active)\n- Developed Azure landing zone accelerator used by 300+..."
+      ],
+      "reasoning": "Katherine Lee (Staff/Principal, ~13 yrs exp, Masters) | Matched skills: R, Aws, Gcp, Terraform | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 18.1,
+        "keyword_required": 12.9,
+        "keyword_preferred": 3.3,
+        "seniority": 3.0,
+        "education": 4.0,
+        "raw_semantic": 0.362,
+        "raw_keyword_req": 0.429
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 13,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Alice Chen",
+      "resume_path": "resumes\\alice_chen.txt",
+      "match_score": 40.7,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Aws",
+        "Gcp",
+        "Kubernetes"
+      ],
+      "relevant_excerpts": [
+        "Senior Machine Learning Engineer with 7 years of experience building production ML systems. \nExpert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.",
+        "ALICE CHEN\nalice.chen@email.com | (415) 555-0101 | San Francisco, CA | linkedin.com/in/alicechen\n\nSUMMARY\nSenior Machine Learning Engineer with 7 years of experience building production ML systems. \nExpert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.\n\nEXPERIENCE...",
+        "Senior ML Engineer | Google DeepMind | 2020 \u2013 Present\n- Designed and deployed large-scale NLP models serving 100M+ daily users\n- Built distributed training pipelines using PyTorch and JAX on TPU clusters\n- Reduced model inference latency by 40% through quantization and distillation\n- Mentored 4 juni..."
+      ],
+      "reasoning": "Alice Chen (Staff/Principal, ~10 yrs exp, Masters) | Matched skills: Python, Go, R, Aws, Gcp, Kubernetes | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 9.9,
+        "keyword_required": 17.1,
+        "keyword_preferred": 6.7,
+        "seniority": 3.0,
+        "education": 4.0,
+        "raw_semantic": 0.197,
+        "raw_keyword_req": 0.571
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 10,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Diana Cho",
+      "resume_path": "resumes\\diana_cho.txt",
+      "match_score": 40.3,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "Principal Software Engineer with 12 years of experience in distributed systems and cloud infrastructure.\nLed engineering teams building hyperscale cloud services at Microsoft and Amazon.\nFrequent speaker at KubeCon and QCon; author of O'Reilly book on distributed systems.",
+        "DIANA CHO\ndiana.cho@email.com | (425) 555-3030 | Bellevue, WA\n\nSUMMARY\nPrincipal Software Engineer with 12 years of experience in distributed systems and cloud infrastructure.\nLed engineering teams building hyperscale cloud services at Microsoft and Amazon.\nFrequent speaker at KubeCon and QCon; auth...",
+        "Principal Engineer | Amazon | 2018 \u2013 Present\n- Technical lead for DynamoDB auto-scaling service serving 100M+ tables\n- Designed consensus protocol improvement reducing P99 latency by 15%\n- Led 6-person engineering team; drove 3 major feature launches\n- Authored 12 Amazon internal design documents ad..."
+      ],
+      "reasoning": "Diana Cho (Staff/Principal, ~15 yrs exp, PhD) | Matched skills: Python, Go, R, Aws | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 17.1,
+        "keyword_required": 12.9,
+        "keyword_preferred": 3.3,
+        "seniority": 3.0,
+        "education": 4.0,
+        "raw_semantic": 0.343,
+        "raw_keyword_req": 0.429
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 15,
+      "education_level": "PhD",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Isabella Torres",
+      "resume_path": "resumes\\isabella_torres.txt",
+      "match_score": 39.9,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Bash",
+        "Aws",
+        "Gcp"
+      ],
+      "relevant_excerpts": [
+        "ISABELLA TORRES\nisabella.torres@email.com | (305) 555-0909 | Miami, FL\n\nSUMMARY\nCybersecurity Engineer with 6 years of experience in penetration testing, incident response, and security architecture.\nCISSP and CEH certified. Led security programs at financial institutions and healthcare companies....",
+        "Cybersecurity Engineer with 6 years of experience in penetration testing, incident response, and security architecture.\nCISSP and CEH certified. Led security programs at financial institutions and healthcare companies.",
+        "Offensive: Penetration testing, Burp Suite, Metasploit, Kali Linux, Social engineering\nDefensive: SIEM (Splunk, IBM QRadar), EDR (CrowdStrike), IDS/IPS, WAF\nCloud Security: AWS Security Hub, Azure Sentinel, GCP Security Command Center\nCompliance: HIPAA, PCI-DSS, SOC 2, NIST, ISO 27001\nLanguages: Pyt..."
+      ],
+      "reasoning": "Isabella Torres (Senior, ~9 yrs exp, Masters) | Matched skills: Python, R, Bash, Aws, Gcp | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 12.4,
+        "keyword_required": 8.6,
+        "keyword_preferred": 10.0,
+        "seniority": 5.0,
+        "education": 4.0,
+        "raw_semantic": 0.247,
+        "raw_keyword_req": 0.286
+      },
+      "seniority": "Senior",
+      "experience_years": 9,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "George Walker",
+      "resume_path": "resumes\\george_walker.txt",
+      "match_score": 38.8,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Aws",
+        "Gcp"
+      ],
+      "relevant_excerpts": [
+        "GEORGE WALKER\ngeorge.walker@email.com | (415) 555-3333 | San Francisco, CA\n\nSUMMARY\nAI/ML Product Engineer with 6 years bridging ML research and production systems.\nExpert in LLM applications, prompt engineering, and AI product development.\nBuilt AI products used by 5M+ users at leading tech compani...",
+        "AI Engineer | Anthropic | 2023 \u2013 Present\n- Built Claude API integrations and developer tooling for enterprise customers\n- Designed evaluation frameworks for LLM safety and capability assessment\n- Developed retrieval-augmented generation (RAG) systems for document Q&A\n- Contributed to Constitutional...",
+        "AI/ML Product Engineer with 6 years bridging ML research and production systems.\nExpert in LLM applications, prompt engineering, and AI product development.\nBuilt AI products used by 5M+ users at leading tech companies."
+      ],
+      "reasoning": "George Walker (Senior, ~8 yrs exp, Masters) | Matched skills: Python, Go, R, Aws, Gcp | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 10.2,
+        "keyword_required": 12.9,
+        "keyword_preferred": 6.7,
+        "seniority": 5.0,
+        "education": 4.0,
+        "raw_semantic": 0.205,
+        "raw_keyword_req": 0.429
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    }
+  ],
+  "latency_ms": 36.4,
+  "timestamp": "2026-03-12T16:48:49.223278"
+}

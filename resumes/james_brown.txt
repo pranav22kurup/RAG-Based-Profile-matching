@@ -1,0 +1,33 @@
+JAMES BROWN
+james.brown@email.com | (312) 555-1010 | Chicago, IL
+
+SUMMARY
+Data Scientist with 5 years of experience in statistical modeling, machine learning, and business analytics.
+Strong domain expertise in retail and supply chain optimization. Expert in Python and R.
+
+EXPERIENCE
+
+Senior Data Scientist | Walgreens | 2021 – Present
+- Built demand forecasting model (LSTM + Prophet) reducing inventory waste by 22%
+- Developed customer lifetime value model optimizing marketing spend ($200M budget)
+- Created automated reporting pipeline delivering insights to C-suite weekly
+- Led data science team of 3, driving quarterly roadmap planning
+
+Data Scientist | Grubhub | 2019 – 2021
+- Designed dynamic pricing algorithm increasing marketplace GMV by 8%
+- Built ETAs prediction model (ensemble methods) improving accuracy by 15%
+- Conducted causal inference studies for marketing attribution
+
+Analytics Engineer | Accenture | 2018 – 2019
+- Built financial analytics dashboards for banking clients using Tableau and SQL
+
+EDUCATION
+M.S. Applied Statistics | University of Chicago | 2018
+B.S. Mathematics | Northwestern University | 2016
+
+SKILLS
+Languages: Python, R, SQL
+ML: scikit-learn, XGBoost, LightGBM, statsmodels, Prophet
+Deep Learning: TensorFlow, Keras
+Visualization: Tableau, Power BI, matplotlib, seaborn, Plotly
+Statistical Methods: Regression, Time series, A/B testing, Causal inference, Bayesian methods

@@ -1,0 +1,32 @@
+Job Title: Staff Software Engineer - Distributed Systems
+Company: Nexus Platform
+Location: New York, NY (Hybrid)
+
+About the Role:
+Nexus Platform builds developer infrastructure tools used by thousands of engineering teams.
+We need a Staff Engineer to lead technical direction on our core distributed systems.
+
+Responsibilities:
+- Lead design and implementation of high-scale distributed systems
+- Define architectural patterns adopted across multiple engineering teams
+- Mentor senior engineers; conduct system design reviews
+- Drive cross-team technical initiatives and alignment
+- Own reliability and performance of mission-critical infrastructure
+- Contribute to engineering blog and industry conference presentations
+
+Required Qualifications:
+- 8+ years of software engineering experience
+- Deep expertise in distributed systems (consensus, CAP, fault tolerance)
+- Strong Java or Go or Scala programming skills
+- Experience with message streaming systems (Kafka, Pulsar)
+- Database expertise: PostgreSQL, Cassandra, or similar
+- Demonstrated technical leadership and mentorship
+- Experience with cloud platforms at scale
+
+Preferred Qualifications:
+- Ph.D. in Computer Science or distributed systems research background
+- Open-source contributions in distributed systems
+- Conference presentations or published papers
+- Experience with globally distributed database systems
+
+Compensation: $280,000 - $350,000 + equity

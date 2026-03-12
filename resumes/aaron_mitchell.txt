@@ -1,0 +1,29 @@
+AARON MITCHELL
+aaron.mitchell@email.com | (214) 555-2727 | Dallas, TX
+
+SUMMARY
+Cloud Security Architect with 8 years experience securing cloud-native applications and infrastructure.
+Expert in AWS security, identity management, and compliance automation. AWS CISO Advisory Board member.
+
+EXPERIENCE
+
+Principal Security Architect | AT&T | 2020 – Present
+- Designed security architecture for telecom cloud transformation ($2B initiative)
+- Built automated compliance platform (SOC 2, ISO 27001, NIST) reducing audit time 80%
+- Led implementation of zero-trust network architecture for 300,000+ employees
+- Managed security architecture team of 6 engineers
+
+Senior Security Engineer | Palo Alto Networks | 2016 – 2020
+- Developed cloud security posture management (CSPM) capabilities
+- Researched and weaponized cloud attack patterns for red team operations
+- Published 3 CVEs; presented at DEF CON and Black Hat
+
+EDUCATION
+B.S. Information Technology | Texas A&M University | 2016
+
+SKILLS
+Cloud Security: AWS Security Hub, GuardDuty, Azure Defender, GCP SCC
+Identity: IAM, OAuth 2.0, SAML, PAM, Zero Trust
+Compliance: SOC 2, ISO 27001, FedRAMP, PCI-DSS, HIPAA
+Programming: Python, Terraform, Bash
+CERTIFICATIONS: CISSP | AWS Security | GCP Security | CCSP

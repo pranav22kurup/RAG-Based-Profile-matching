@@ -1,0 +1,370 @@
+{
+  "job_description": "Job Title: Senior Data Engineer\nCompany: DataFlow Analytics  \nLocation: Chicago, IL or Remote\n\nAbout the Role:\nDataFlow Analytics is building the data infrastructure for mid-market companies.\nWe need a Senior Data Engineer to design and build our core data platform.\n\nResponsibilities:\n- Design and i...",
+  "jd_required_skills": [
+    "python",
+    "go",
+    "scala",
+    "r",
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "dbt",
+    "snowflake",
+    "bigquery",
+    "redshift",
+    "aws",
+    "gcp",
+    "azure"
+  ],
+  "jd_preferred_skills": [
+    "flink"
+  ],
+  "total_candidates_evaluated": 33,
+  "top_matches": [
+    {
+      "candidate_name": "Carol Johnson",
+      "resume_path": "resumes\\carol_johnson.txt",
+      "match_score": 74.7,
+      "matched_skills": [
+        "Python",
+        "Scala",
+        "R",
+        "Sql",
+        "Spark",
+        "Kafka",
+        "Airflow",
+        "Dbt",
+        "Snowflake",
+        "Bigquery",
+        "Redshift",
+        "Flink",
+        "Aws",
+        "Gcp",
+        "Azure"
+      ],
+      "relevant_excerpts": [
+        "CAROL JOHNSON\ncarol.johnson@email.com | (212) 555-0303 | New York, NY\n\nSUMMARY\nData Engineer with 6 years of experience designing and maintaining large-scale data pipelines.\nExpert in Spark, Kafka, and cloud data warehousing. Strong background in data modeling.\n\nEXPERIENCE\n\nSenior Data Engineer | JP...",
+        "Senior Data Engineer | JPMorgan Chase | 2021 \u2013 Present\n- Architected real-time risk analytics platform processing 5TB/day using Apache Kafka and Spark Streaming\n- Built data lakehouse on AWS (S3 + Delta Lake) replacing legacy Oracle data warehouse\n- Reduced data pipeline failures by 70% through robu...",
+        "Languages: Python, Scala, SQL, Java\nBig Data: Apache Spark, Kafka, Flink, Hadoop, Hive\nCloud: AWS (Glue, EMR, Redshift), GCP (BigQuery, Dataflow), Azure Synapse\nDatabases: PostgreSQL, Snowflake, Delta Lake, Cassandra\nOrchestration: Airflow, Prefect, dbt"
+      ],
+      "reasoning": "Carol Johnson (Senior, ~9 yrs exp, Masters) | Matched skills: Python, Scala, R, Sql, Spark, Kafka, Airflow, Dbt, Snowflake, Bigquery | Good semantic alignment with job description. | Covers most required skills.",
+      "score_breakdown": {
+        "semantic": 27.7,
+        "keyword_required": 28.0,
+        "keyword_preferred": 10.0,
+        "seniority": 5.0,
+        "education": 4.0,
+        "raw_semantic": 0.554,
+        "raw_keyword_req": 0.933
+      },
+      "seniority": "Senior",
+      "experience_years": 9,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Zoe Williams",
+      "resume_path": "resumes\\zoe_williams.txt",
+      "match_score": 50.7,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "Scala",
+        "R",
+        "Sql",
+        "Spark",
+        "Kafka",
+        "Flink",
+        "Aws",
+        "Gcp"
+      ],
+      "relevant_excerpts": [
+        "ZOE WILLIAMS\nzoe.williams@email.com | (646) 555-2626 | Brooklyn, NY\n\nSUMMARY\nStaff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture.\n\nEXPERIENCE\n\nStaff Engineer | Spotify | 2...",
+        "Staff Engineer | Spotify | 2019 \u2013 Present\n- Technical lead for internal developer platform used by 3,000+ engineers\n- Designed event streaming architecture (Kafka) handling 1T+ events/day for music recommendations\n- Contributed to engineering RFC process improving cross-team alignment\n- Mentored 8 e...",
+        "Staff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture."
+      ],
+      "reasoning": "Zoe Williams (Staff/Principal, ~12 yrs exp, Masters) | Matched skills: Python, Go, Scala, R, Sql, Spark, Kafka, Flink, Aws, Gcp | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 15.7,
+        "keyword_required": 18.0,
+        "keyword_preferred": 10.0,
+        "seniority": 3.0,
+        "education": 4.0,
+        "raw_semantic": 0.314,
+        "raw_keyword_req": 0.6
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 12,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Fiona Murphy",
+      "resume_path": "resumes\\fiona_murphy.txt",
+      "match_score": 49.5,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Sql",
+        "Kafka",
+        "Airflow",
+        "Dbt",
+        "Snowflake",
+        "Bigquery",
+        "Redshift"
+      ],
+      "relevant_excerpts": [
+        "FIONA MURPHY\nfiona.murphy@email.com | (857) 555-3232 | Boston, MA\n\nSUMMARY\nData Platform Engineer with 7 years building modern data infrastructure for analytics teams.\nExpert in dbt, Snowflake, and data modeling. Transitioned from data analyst to engineering.\n\nEXPERIENCE\n\nSenior Analytics Engineer |...",
+        "Data Platform Engineer with 7 years building modern data infrastructure for analytics teams.\nExpert in dbt, Snowflake, and data modeling. Transitioned from data analyst to engineering.",
+        "Data Modeling: dbt (expert), dimensional modeling, Kimball methodology\nWarehouses: Snowflake, BigQuery, Redshift, Databricks\nLanguages: SQL (expert), Python, dbt Jinja/Macros\nOrchestration: Airflow, Prefect, dbt Cloud\nVisualization: Tableau, Looker, Metabase, Mode"
+      ],
+      "reasoning": "Fiona Murphy (Staff/Principal, ~10 yrs exp, Masters) | Matched skills: Python, R, Sql, Kafka, Airflow, Dbt, Snowflake, Bigquery, Redshift | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 24.5,
+        "keyword_required": 18.0,
+        "keyword_preferred": 0.0,
+        "seniority": 3.0,
+        "education": 4.0,
+        "raw_semantic": 0.49,
+        "raw_keyword_req": 0.6
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 10,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Brenda Foster",
+      "resume_path": "resumes\\brenda_foster.txt",
+      "match_score": 38.6,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Sql",
+        "Spark",
+        "Kafka",
+        "Airflow",
+        "Aws",
+        "Gcp",
+        "Azure"
+      ],
+      "relevant_excerpts": [
+        "BRENDA FOSTER\nbrenda.foster@email.com | (612) 555-2828 | Minneapolis, MN\n\nSUMMARY\nMachine Learning Engineer with 4 years experience deploying ML models to production.\nExpert in MLOps, model serving, and real-time ML systems. Strong Python and cloud skills.\n\nEXPERIENCE\n\nML Engineer | Target Corporati...",
+        "Machine Learning Engineer with 4 years experience deploying ML models to production.\nExpert in MLOps, model serving, and real-time ML systems. Strong Python and cloud skills.",
+        "ML/DL: PyTorch, TensorFlow, scikit-learn, XGBoost, Hugging Face\nMLOps: MLflow, Kubeflow, Seldon, BentoML, Feast, Airflow\nCloud: AWS SageMaker, Azure ML, GCP Vertex AI\nLanguages: Python, SQL, Bash\nInfra: Kubernetes, Docker, Spark, Kafka"
+      ],
+      "reasoning": "Brenda Foster (Senior, ~6 yrs exp, Masters) | Matched skills: Python, R, Sql, Spark, Kafka, Airflow, Aws, Gcp, Azure | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 11.6,
+        "keyword_required": 18.0,
+        "keyword_preferred": 0.0,
+        "seniority": 5.0,
+        "education": 4.0,
+        "raw_semantic": 0.232,
+        "raw_keyword_req": 0.6
+      },
+      "seniority": "Senior",
+      "experience_years": 6,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Alice Chen",
+      "resume_path": "resumes\\alice_chen.txt",
+      "match_score": 36.5,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "Scala",
+        "R",
+        "Sql",
+        "Airflow",
+        "Aws",
+        "Gcp",
+        "Azure"
+      ],
+      "relevant_excerpts": [
+        "ALICE CHEN\nalice.chen@email.com | (415) 555-0101 | San Francisco, CA | linkedin.com/in/alicechen\n\nSUMMARY\nSenior Machine Learning Engineer with 7 years of experience building production ML systems. \nExpert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.\n\nEXPERIENCE...",
+        "Senior Machine Learning Engineer with 7 years of experience building production ML systems. \nExpert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.",
+        "Senior ML Engineer | Google DeepMind | 2020 \u2013 Present\n- Designed and deployed large-scale NLP models serving 100M+ daily users\n- Built distributed training pipelines using PyTorch and JAX on TPU clusters\n- Reduced model inference latency by 40% through quantization and distillation\n- Mentored 4 juni..."
+      ],
+      "reasoning": "Alice Chen (Staff/Principal, ~10 yrs exp, Masters) | Matched skills: Python, Go, Scala, R, Sql, Airflow, Aws, Gcp, Azure | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 11.5,
+        "keyword_required": 18.0,
+        "keyword_preferred": 0.0,
+        "seniority": 3.0,
+        "education": 4.0,
+        "raw_semantic": 0.23,
+        "raw_keyword_req": 0.6
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 10,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Frank Nguyen",
+      "resume_path": "resumes\\frank_nguyen.txt",
+      "match_score": 35.6,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Sql",
+        "Kafka",
+        "Aws",
+        "Gcp"
+      ],
+      "relevant_excerpts": [
+        "FRANK NGUYEN\nfrank.nguyen@email.com | (408) 555-0606 | San Jose, CA\n\nSUMMARY\nBackend Software Engineer with 4 years of experience specializing in distributed systems and API development.\nExpert in Java, Go, and microservices architecture. Experience with high-throughput financial systems.\n\nEXPERIENC...",
+        "Backend Software Engineer with 4 years of experience specializing in distributed systems and API development.\nExpert in Java, Go, and microservices architecture. Experience with high-throughput financial systems.",
+        "Software Engineer II | PayPal | 2022 \u2013 Present\n- Built payment processing microservices handling $500M in daily transactions\n- Designed gRPC APIs with 99.99% availability using Circuit Breaker patterns\n- Implemented event-driven architecture with Apache Kafka for audit logging\n- Improved API respons..."
+      ],
+      "reasoning": "Frank Nguyen (Senior, ~6 yrs exp, Masters) | Matched skills: Python, Go, R, Sql, Kafka, Aws, Gcp | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 12.6,
+        "keyword_required": 14.0,
+        "keyword_preferred": 0.0,
+        "seniority": 5.0,
+        "education": 4.0,
+        "raw_semantic": 0.251,
+        "raw_keyword_req": 0.467
+      },
+      "seniority": "Senior",
+      "experience_years": 6,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "George Walker",
+      "resume_path": "resumes\\george_walker.txt",
+      "match_score": 31.4,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Sql",
+        "Aws",
+        "Gcp",
+        "Azure"
+      ],
+      "relevant_excerpts": [
+        "GEORGE WALKER\ngeorge.walker@email.com | (415) 555-3333 | San Francisco, CA\n\nSUMMARY\nAI/ML Product Engineer with 6 years bridging ML research and production systems.\nExpert in LLM applications, prompt engineering, and AI product development.\nBuilt AI products used by 5M+ users at leading tech compani...",
+        "AI Engineer | Anthropic | 2023 \u2013 Present\n- Built Claude API integrations and developer tooling for enterprise customers\n- Designed evaluation frameworks for LLM safety and capability assessment\n- Developed retrieval-augmented generation (RAG) systems for document Q&A\n- Contributed to Constitutional...",
+        "AI/ML Product Engineer with 6 years bridging ML research and production systems.\nExpert in LLM applications, prompt engineering, and AI product development.\nBuilt AI products used by 5M+ users at leading tech companies."
+      ],
+      "reasoning": "George Walker (Senior, ~8 yrs exp, Masters) | Matched skills: Python, Go, R, Sql, Aws, Gcp, Azure | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 8.4,
+        "keyword_required": 14.0,
+        "keyword_preferred": 0.0,
+        "seniority": 5.0,
+        "education": 4.0,
+        "raw_semantic": 0.168,
+        "raw_keyword_req": 0.467
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Bob Martinez",
+      "resume_path": "resumes\\bob_martinez.txt",
+      "match_score": 30.3,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "Scala",
+        "R",
+        "Sql",
+        "Aws"
+      ],
+      "relevant_excerpts": [
+        "BOB MARTINEZ\nbob.martinez@email.com | (512) 555-0202 | Austin, TX\n\nSUMMARY\nFull-Stack Software Engineer with 5 years experience in React, Node.js, and cloud infrastructure. \nPassionate about building scalable web applications and developer tooling.\n\nEXPERIENCE\n\nSenior Software Engineer | Stripe | 20...",
+        "Full-Stack Software Engineer with 5 years experience in React, Node.js, and cloud infrastructure. \nPassionate about building scalable web applications and developer tooling.",
+        "Senior Software Engineer | Stripe | 2021 \u2013 Present\n- Built payment dashboard used by 2M+ merchants using React and TypeScript\n- Designed REST and GraphQL APIs handling 10M+ requests/day\n- Led migration from monolith to microservices, reducing deployment time by 60%\n\nSoftware Engineer | Indeed | 2019..."
+      ],
+      "reasoning": "Bob Martinez (Senior, ~8 yrs exp, Masters) | Matched skills: Python, Go, Scala, R, Sql, Aws | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 9.3,
+        "keyword_required": 12.0,
+        "keyword_preferred": 0.0,
+        "seniority": 5.0,
+        "education": 4.0,
+        "raw_semantic": 0.187,
+        "raw_keyword_req": 0.4
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "David Kim",
+      "resume_path": "resumes\\david_kim.txt",
+      "match_score": 30.1,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Aws",
+        "Gcp",
+        "Azure"
+      ],
+      "relevant_excerpts": [
+        "DAVID KIM\ndavid.kim@email.com | (206) 555-0404 | Seattle, WA\n\nSUMMARY\nDevOps / Platform Engineer with 8 years experience in cloud infrastructure, Kubernetes, and SRE practices. \nBuilt and managed infrastructure for systems handling millions of concurrent users.\n\nEXPERIENCE\n\nStaff Platform Engineer |...",
+        "DevOps / Platform Engineer with 8 years experience in cloud infrastructure, Kubernetes, and SRE practices. \nBuilt and managed infrastructure for systems handling millions of concurrent users.",
+        "Staff Platform Engineer | Amazon Web Services | 2019 \u2013 Present\n- Designed multi-region Kubernetes platform serving 500+ internal engineering teams\n- Led SRE practices achieving 99.99% uptime SLA for critical payment services\n- Built infrastructure-as-code frameworks (Terraform + CDK) adopted by 200+..."
+      ],
+      "reasoning": "David Kim (Staff/Principal, ~11 yrs exp, Masters) | Matched skills: Python, Go, R, Aws, Gcp, Azure | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 11.1,
+        "keyword_required": 12.0,
+        "keyword_preferred": 0.0,
+        "seniority": 3.0,
+        "education": 4.0,
+        "raw_semantic": 0.221,
+        "raw_keyword_req": 0.4
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 11,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "James Brown",
+      "resume_path": "resumes\\james_brown.txt",
+      "match_score": 29.5,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "Sql"
+      ],
+      "relevant_excerpts": [
+        "Data Scientist with 5 years of experience in statistical modeling, machine learning, and business analytics.\nStrong domain expertise in retail and supply chain optimization. Expert in Python and R.",
+        "JAMES BROWN\njames.brown@email.com | (312) 555-1010 | Chicago, IL\n\nSUMMARY\nData Scientist with 5 years of experience in statistical modeling, machine learning, and business analytics.\nStrong domain expertise in retail and supply chain optimization. Expert in Python and R.\n\nEXPERIENCE\n\nSenior Data Sci...",
+        "Senior Data Scientist | Walgreens | 2021 \u2013 Present\n- Built demand forecasting model (LSTM + Prophet) reducing inventory waste by 22%\n- Developed customer lifetime value model optimizing marketing spend ($200M budget)\n- Created automated reporting pipeline delivering insights to C-suite weekly\n- Led..."
+      ],
+      "reasoning": "James Brown (Senior, ~8 yrs exp, Masters) | Matched skills: Python, Go, R, Sql | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 12.5,
+        "keyword_required": 8.0,
+        "keyword_preferred": 0.0,
+        "seniority": 5.0,
+        "education": 4.0,
+        "raw_semantic": 0.249,
+        "raw_keyword_req": 0.267
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    }
+  ],
+  "latency_ms": 50.7,
+  "timestamp": "2026-03-12T16:48:49.130313"
+}

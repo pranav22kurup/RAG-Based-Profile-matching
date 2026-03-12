@@ -1,0 +1,30 @@
+Job Title: Junior Python Developer
+Company: StartupHub
+Location: Remote
+
+About the Role:
+StartupHub is looking for a Junior Python Developer to join our growing engineering team.
+This is a great opportunity for early-career engineers to grow fast in a startup environment.
+
+Responsibilities:
+- Build and maintain REST APIs using Python (FastAPI or Flask)
+- Write clean, well-tested code with good documentation
+- Work with PostgreSQL and Redis for data storage
+- Participate in code reviews and engineering discussions
+- Fix bugs and improve existing systems
+- Learn and apply best practices for cloud deployment
+
+Required Qualifications:
+- 1-2 years of Python development experience
+- Familiarity with REST API design
+- Basic SQL knowledge
+- Some experience with Git and version control
+- Eagerness to learn and grow
+
+Nice to Have:
+- Experience with FastAPI or Flask
+- AWS or cloud platform basics
+- Docker familiarity
+- Any experience with data pipelines or ML
+
+Compensation: $90,000 - $120,000 + equity

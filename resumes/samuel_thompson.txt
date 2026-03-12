@@ -1,0 +1,29 @@
+SAMUEL THOMPSON
+samuel.thompson@email.com | (202) 555-1919 | Washington, DC
+
+SUMMARY
+Software Engineer with 3 years experience specializing in Python backend development and REST API design.
+Recent graduate passionate about clean code, test-driven development, and open-source contributions.
+
+EXPERIENCE
+
+Software Engineer | Palantir Technologies | 2022 – Present
+- Built data pipeline APIs for government analytics platform (Python, FastAPI)
+- Developed ETL jobs processing classified datasets (clearance required)
+- Wrote comprehensive unit and integration tests (95% code coverage)
+- Participated in on-call rotation; resolved 50+ production incidents
+
+Software Engineering Intern | Capital One | Summer 2021
+- Built internal tool for credit risk analysis using Python and React
+- Contributed features to microservices deployed on AWS Lambda
+
+EDUCATION
+B.S. Computer Science | University of Maryland | 2022
+GPA: 3.9 | Honors thesis: "Efficient Graph Algorithms for Social Network Analysis"
+
+SKILLS
+Languages: Python (expert), JavaScript, Java, SQL
+Frameworks: FastAPI, Flask, Django, React
+Databases: PostgreSQL, DynamoDB, Redis
+Cloud: AWS (Lambda, S3, RDS), Docker
+Testing: pytest, unittest, Postman

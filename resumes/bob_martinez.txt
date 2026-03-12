@@ -1,0 +1,36 @@
+BOB MARTINEZ
+bob.martinez@email.com | (512) 555-0202 | Austin, TX
+
+SUMMARY
+Full-Stack Software Engineer with 5 years experience in React, Node.js, and cloud infrastructure. 
+Passionate about building scalable web applications and developer tooling.
+
+EXPERIENCE
+
+Senior Software Engineer | Stripe | 2021 – Present
+- Built payment dashboard used by 2M+ merchants using React and TypeScript
+- Designed REST and GraphQL APIs handling 10M+ requests/day
+- Led migration from monolith to microservices, reducing deployment time by 60%
+
+Software Engineer | Indeed | 2019 – 2021
+- Developed job recommendation engine serving 250M users
+- Optimized PostgreSQL queries reducing p99 latency from 800ms to 120ms
+- Built CI/CD pipelines using GitHub Actions and Terraform
+
+Junior Developer | Dell Technologies | 2018 – 2019
+- Created internal HR portal using Angular and .NET Core
+- Wrote automated test suites increasing code coverage from 40% to 85%
+
+EDUCATION
+B.S. Computer Science | University of Texas at Austin | 2018
+
+SKILLS
+Frontend: React, TypeScript, Next.js, Vue.js, HTML/CSS
+Backend: Node.js, Python, Go, Java, .NET Core
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+DevOps: AWS, Docker, Kubernetes, Terraform, Jenkins
+Testing: Jest, Cypress, Selenium
+
+PROJECTS
+- Open-source React component library (1.2k GitHub stars)
+- Personal finance tracker app (5,000+ active users)

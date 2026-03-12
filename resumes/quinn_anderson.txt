@@ -1,0 +1,29 @@
+QUINN ANDERSON
+quinn.anderson@email.com | (503) 555-1717 | Portland, OR
+
+SUMMARY
+Technical Writer and Documentation Engineer with 7 years experience creating developer documentation 
+for APIs, SDKs, and enterprise software. Strong technical background with coding experience.
+
+EXPERIENCE
+
+Senior Technical Writer | Twilio | 2021 – Present
+- Own documentation for Twilio's Communication APIs (10M+ developer users)
+- Reduced developer onboarding time by 45% through improved quickstart guides
+- Built docs-as-code pipeline using Sphinx, GitHub Actions, and ReadTheDocs
+- Collaborated with 20+ PMs and engineers to document new features at launch
+
+Technical Writer | Atlassian | 2018 – 2021
+- Wrote and maintained Confluence, JIRA, and Bitbucket documentation
+- Created tutorial video scripts and interactive API playground content
+- Developed internal style guide adopted across documentation team
+
+EDUCATION
+B.A. English/Linguistics | Reed College | 2017
+Minor: Computer Science
+
+SKILLS
+Writing: API docs, User guides, Tutorials, Release notes, Style guides
+Technical: REST/GraphQL APIs, Markdown, reStructuredText, OpenAPI/Swagger
+Tools: Sphinx, Docusaurus, MadCap Flare, Confluence, GitHub
+Programming: Python, JavaScript (basic), SQL (basic)

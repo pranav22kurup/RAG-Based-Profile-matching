@@ -1,0 +1,31 @@
+TINA PATEL
+tina.patel@email.com | (408) 555-2020 | Sunnyvale, CA
+
+SUMMARY
+NLP Engineer with 5 years specializing in conversational AI and language models.
+Built production chatbots and NLP systems serving millions of users. 
+Expert in Hugging Face, LangChain, and LLM fine-tuning.
+
+EXPERIENCE
+
+Senior NLP Engineer | Apple | 2021 – Present
+- Led development of Siri intent classification system (BERT-based, 95% accuracy)
+- Fine-tuned LLMs for domain-specific Q&A reducing hallucination by 60%
+- Built RAG (Retrieval-Augmented Generation) pipeline for Siri Knowledge
+- Optimized transformer models for on-device inference (Core ML conversion)
+
+NLP Engineer | Nuance Communications | 2018 – 2021
+- Built healthcare voice AI transcription system (98.5% accuracy)
+- Developed named entity recognition for medical records (BioBERT)
+- Created text classification pipeline for clinical notes routing
+
+EDUCATION
+M.S. Computational Linguistics | Stanford University | 2018
+B.S. Computer Science & Linguistics | UCSD | 2016
+
+SKILLS
+NLP: Hugging Face Transformers, LangChain, SpaCy, NLTK, Gensim
+Models: BERT, GPT-4, LLaMA, T5, Whisper, embedding models
+Tasks: Text classification, NER, QA, Summarization, RAG, fine-tuning
+MLOps: MLflow, Weights & Biases, ONNX, TensorRT
+Languages: Python, SQL, Bash

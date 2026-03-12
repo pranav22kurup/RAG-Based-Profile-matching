@@ -1,0 +1,33 @@
+Job Title: Senior DevOps / Platform Engineer
+Company: CloudBase Systems
+Location: Seattle, WA (Hybrid)
+
+About the Role:
+CloudBase builds cloud infrastructure tooling used by enterprise engineering teams.
+We need an experienced Platform Engineer to own our internal developer platform and cloud infrastructure.
+
+Responsibilities:
+- Design and maintain Kubernetes-based platform supporting 100+ engineering teams
+- Build and improve CI/CD pipelines using GitHub Actions, ArgoCD, or Jenkins
+- Implement infrastructure-as-code using Terraform, Pulumi, or AWS CDK
+- Define and enforce security best practices for cloud environments
+- Build observability stack (Prometheus, Grafana, distributed tracing)
+- Lead incident response and conduct thorough post-mortems
+- Mentor junior DevOps engineers
+
+Required Qualifications:
+- 5+ years of DevOps, SRE, or Platform Engineering experience
+- Expert-level Kubernetes administration (CKA preferred)
+- Strong experience with AWS or GCP (3+ years)
+- Terraform or similar IaC tools expertise
+- CI/CD pipeline design and implementation experience
+- Programming skills in Python, Go, or Bash
+- Strong Linux systems knowledge
+
+Preferred Qualifications:
+- AWS Solutions Architect or GCP Professional certification
+- Experience with service mesh (Istio, Linkerd)
+- FinOps / cloud cost optimization experience
+- Experience building internal developer platforms (Backstage, etc.)
+
+Compensation: $170,000 - $230,000 + equity

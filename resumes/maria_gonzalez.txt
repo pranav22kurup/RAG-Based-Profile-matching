@@ -1,0 +1,29 @@
+MARIA GONZALEZ
+maria.gonzalez@email.com | (713) 555-1313 | Houston, TX
+
+SUMMARY
+Quantitative Analyst / Algorithmic Trader with 7 years of experience in systematic trading and risk management.
+Expert in Python, C++, and quantitative finance. Built trading strategies generating $50M+ alpha annually.
+
+EXPERIENCE
+
+Senior Quantitative Analyst | Goldman Sachs | 2020 – Present
+- Developed high-frequency market-making strategies (C++, Python) with Sharpe ratio > 3.0
+- Built statistical arbitrage models across equity, futures, and FX markets
+- Designed risk management systems monitoring $5B portfolio in real-time
+- Led team of 4 quants on systematic macro strategy development
+
+Quantitative Researcher | Two Sigma | 2017 – 2020
+- Researched and implemented ML-based alpha signals using alternative data
+- Built backtesting framework in Python supporting 1000+ strategy variations/day
+- Reduced signal decay through adaptive learning algorithms
+
+EDUCATION
+Ph.D. Financial Mathematics | University of Chicago | 2017
+B.S. Physics | MIT | 2012
+
+SKILLS
+Programming: Python (NumPy, Pandas, SciPy), C++, R, MATLAB
+ML/Statistics: Time series analysis, Factor models, Bayesian inference, NLP for finance
+Finance: Options pricing, Portfolio optimization, Risk management (VaR, Greeks)
+Infrastructure: Linux, SQL, kdb+/Q, Kafka

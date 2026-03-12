@@ -1,0 +1,333 @@
+{
+  "job_description": "Job Title: Staff Software Engineer - Distributed Systems\nCompany: Nexus Platform\nLocation: New York, NY (Hybrid)\n\nAbout the Role:\nNexus Platform builds developer infrastructure tools used by thousands of engineering teams.\nWe need a Staff Engineer to lead technical direction on our core distributed ...",
+  "jd_required_skills": [
+    "java",
+    "go",
+    "scala",
+    "r",
+    "sql",
+    "kafka",
+    "postgresql",
+    "cassandra",
+    "ros"
+  ],
+  "jd_preferred_skills": [],
+  "total_candidates_evaluated": 32,
+  "top_matches": [
+    {
+      "candidate_name": "Zoe Williams",
+      "resume_path": "resumes\\zoe_williams.txt",
+      "match_score": 71.3,
+      "matched_skills": [
+        "Java",
+        "Go",
+        "Scala",
+        "R",
+        "Sql",
+        "Kafka",
+        "Postgresql",
+        "Cassandra",
+        "Ros"
+      ],
+      "relevant_excerpts": [
+        "ZOE WILLIAMS\nzoe.williams@email.com | (646) 555-2626 | Brooklyn, NY\n\nSUMMARY\nStaff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture.\n\nEXPERIENCE\n\nStaff Engineer | Spotify | 2...",
+        "Staff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture.",
+        "Staff Engineer | Spotify | 2019 \u2013 Present\n- Technical lead for internal developer platform used by 3,000+ engineers\n- Designed event streaming architecture (Kafka) handling 1T+ events/day for music recommendations\n- Contributed to engineering RFC process improving cross-team alignment\n- Mentored 8 e..."
+      ],
+      "reasoning": "Zoe Williams (Staff/Principal, ~12 yrs exp, Masters) | Matched skills: Java, Go, Scala, R, Sql, Kafka, Postgresql, Cassandra, Ros | Good semantic alignment with job description. | Covers most required skills.",
+      "score_breakdown": {
+        "semantic": 27.9,
+        "keyword_required": 30.0,
+        "keyword_preferred": 5.0,
+        "seniority": 5.0,
+        "education": 3.3,
+        "raw_semantic": 0.559,
+        "raw_keyword_req": 1.0
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 12,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Diana Cho",
+      "resume_path": "resumes\\diana_cho.txt",
+      "match_score": 58.8,
+      "matched_skills": [
+        "Java",
+        "Go",
+        "R",
+        "Sql",
+        "Cassandra",
+        "Ros"
+      ],
+      "relevant_excerpts": [
+        "Principal Software Engineer with 12 years of experience in distributed systems and cloud infrastructure.\nLed engineering teams building hyperscale cloud services at Microsoft and Amazon.\nFrequent speaker at KubeCon and QCon; author of O'Reilly book on distributed systems.",
+        "DIANA CHO\ndiana.cho@email.com | (425) 555-3030 | Bellevue, WA\n\nSUMMARY\nPrincipal Software Engineer with 12 years of experience in distributed systems and cloud infrastructure.\nLed engineering teams building hyperscale cloud services at Microsoft and Amazon.\nFrequent speaker at KubeCon and QCon; auth...",
+        "Ph.D. Distributed Systems | MIT | 2011\nB.S. Computer Science | Cornell University | 2006"
+      ],
+      "reasoning": "Diana Cho (Staff/Principal, ~15 yrs exp, PhD) | Matched skills: Java, Go, R, Sql, Cassandra, Ros | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 23.8,
+        "keyword_required": 20.0,
+        "keyword_preferred": 5.0,
+        "seniority": 5.0,
+        "education": 5.0,
+        "raw_semantic": 0.476,
+        "raw_keyword_req": 0.667
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 15,
+      "education_level": "PhD",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Carol Johnson",
+      "resume_path": "resumes\\carol_johnson.txt",
+      "match_score": 49.5,
+      "matched_skills": [
+        "Java",
+        "Scala",
+        "R",
+        "Sql",
+        "Kafka",
+        "Postgresql",
+        "Cassandra",
+        "Ros"
+      ],
+      "relevant_excerpts": [
+        "Data Engineer with 6 years of experience designing and maintaining large-scale data pipelines.\nExpert in Spark, Kafka, and cloud data warehousing. Strong background in data modeling.",
+        "CAROL JOHNSON\ncarol.johnson@email.com | (212) 555-0303 | New York, NY\n\nSUMMARY\nData Engineer with 6 years of experience designing and maintaining large-scale data pipelines.\nExpert in Spark, Kafka, and cloud data warehousing. Strong background in data modeling.\n\nEXPERIENCE\n\nSenior Data Engineer | JP...",
+        "Senior Data Engineer | JPMorgan Chase | 2021 \u2013 Present\n- Architected real-time risk analytics platform processing 5TB/day using Apache Kafka and Spark Streaming\n- Built data lakehouse on AWS (S3 + Delta Lake) replacing legacy Oracle data warehouse\n- Reduced data pipeline failures by 70% through robu..."
+      ],
+      "reasoning": "Carol Johnson (Senior, ~9 yrs exp, Masters) | Matched skills: Java, Scala, R, Sql, Kafka, Postgresql, Cassandra, Ros | Moderate semantic alignment with job description. | Covers most required skills.",
+      "score_breakdown": {
+        "semantic": 11.5,
+        "keyword_required": 26.7,
+        "keyword_preferred": 5.0,
+        "seniority": 3.0,
+        "education": 3.3,
+        "raw_semantic": 0.231,
+        "raw_keyword_req": 0.889
+      },
+      "seniority": "Senior",
+      "experience_years": 9,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Bob Martinez",
+      "resume_path": "resumes\\bob_martinez.txt",
+      "match_score": 46.8,
+      "matched_skills": [
+        "Java",
+        "Go",
+        "Scala",
+        "R",
+        "Sql",
+        "Postgresql",
+        "Ros"
+      ],
+      "relevant_excerpts": [
+        "BOB MARTINEZ\nbob.martinez@email.com | (512) 555-0202 | Austin, TX\n\nSUMMARY\nFull-Stack Software Engineer with 5 years experience in React, Node.js, and cloud infrastructure. \nPassionate about building scalable web applications and developer tooling.\n\nEXPERIENCE\n\nSenior Software Engineer | Stripe | 20...",
+        "Full-Stack Software Engineer with 5 years experience in React, Node.js, and cloud infrastructure. \nPassionate about building scalable web applications and developer tooling.",
+        "- Open-source React component library (1.2k GitHub stars)\n- Personal finance tracker app (5,000+ active users)"
+      ],
+      "reasoning": "Bob Martinez (Senior, ~8 yrs exp, Masters) | Matched skills: Java, Go, Scala, R, Sql, Postgresql, Ros | Moderate semantic alignment with job description. | Covers most required skills.",
+      "score_breakdown": {
+        "semantic": 12.1,
+        "keyword_required": 23.3,
+        "keyword_preferred": 5.0,
+        "seniority": 3.0,
+        "education": 3.3,
+        "raw_semantic": 0.242,
+        "raw_keyword_req": 0.778
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "William Chen",
+      "resume_path": "resumes\\william_chen.txt",
+      "match_score": 44.8,
+      "matched_skills": [
+        "Go",
+        "R",
+        "Sql",
+        "Ros"
+      ],
+      "relevant_excerpts": [
+        "Site Reliability Engineer with 9 years of experience ensuring reliability and performance of distributed systems.\nExpert in incident management, capacity planning, and observability. Led SRE teams at Google and Meta.",
+        "WILLIAM CHEN\nwilliam.chen@email.com | (650) 555-2323 | Palo Alto, CA\n\nSUMMARY\nSite Reliability Engineer with 9 years of experience ensuring reliability and performance of distributed systems.\nExpert in incident management, capacity planning, and observability. Led SRE teams at Google and Meta.\n\nEXPE...",
+        "Staff SRE | Meta | 2020 \u2013 Present\n- Owned reliability for Instagram's feed ranking systems (2B+ daily users)\n- Led incident management practice; achieved 99.999% availability SLA\n- Built comprehensive observability platform (custom metrics, tracing, logging)\n- Reduced on-call burden by 40% through i..."
+      ],
+      "reasoning": "William Chen (Staff/Principal, ~11 yrs exp, Masters) | Matched skills: Go, R, Sql, Ros | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 18.1,
+        "keyword_required": 13.3,
+        "keyword_preferred": 5.0,
+        "seniority": 5.0,
+        "education": 3.3,
+        "raw_semantic": 0.363,
+        "raw_keyword_req": 0.444
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 11,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Nathan Wright",
+      "resume_path": "resumes\\nathan_wright.txt",
+      "match_score": 42.3,
+      "matched_skills": [
+        "Java",
+        "R",
+        "Ros"
+      ],
+      "relevant_excerpts": [
+        "NATHAN WRIGHT\nnathan.wright@email.com | (404) 555-1414 | Atlanta, GA\n\nSUMMARY\nSoftware Engineering Manager with 10+ years total experience (6 years engineering, 4 years management).\nLed teams of 8-15 engineers delivering B2B SaaS products. Strong in agile delivery and team development.\n\nEXPERIENCE...",
+        "Engineering Manager | Salesforce | 2021 \u2013 Present\n- Manage 3 teams (15 engineers) across CRM analytics product line ($50M ARR)\n- Reduced time-to-production from 3 weeks to 4 days through process improvements\n- Grew team from 8 to 15 through successful hiring and retention (0% attrition)\n- Partnered...",
+        "Software Engineering Manager with 10+ years total experience (6 years engineering, 4 years management).\nLed teams of 8-15 engineers delivering B2B SaaS products. Strong in agile delivery and team development."
+      ],
+      "reasoning": "Nathan Wright (Staff/Principal, ~13 yrs exp, Masters) | Matched skills: Java, R, Ros | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 19.0,
+        "keyword_required": 10.0,
+        "keyword_preferred": 5.0,
+        "seniority": 5.0,
+        "education": 3.3,
+        "raw_semantic": 0.379,
+        "raw_keyword_req": 0.333
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 13,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Maria Gonzalez",
+      "resume_path": "resumes\\maria_gonzalez.txt",
+      "match_score": 37.5,
+      "matched_skills": [
+        "Go",
+        "R",
+        "Sql",
+        "Kafka",
+        "Ros"
+      ],
+      "relevant_excerpts": [
+        "MARIA GONZALEZ\nmaria.gonzalez@email.com | (713) 555-1313 | Houston, TX\n\nSUMMARY\nQuantitative Analyst / Algorithmic Trader with 7 years of experience in systematic trading and risk management.\nExpert in Python, C++, and quantitative finance. Built trading strategies generating $50M+ alpha annually....",
+        "Quantitative Analyst / Algorithmic Trader with 7 years of experience in systematic trading and risk management.\nExpert in Python, C++, and quantitative finance. Built trading strategies generating $50M+ alpha annually.",
+        "Senior Quantitative Analyst | Goldman Sachs | 2020 \u2013 Present\n- Developed high-frequency market-making strategies (C++, Python) with Sharpe ratio > 3.0\n- Built statistical arbitrage models across equity, futures, and FX markets\n- Designed risk management systems monitoring $5B portfolio in real-time..."
+      ],
+      "reasoning": "Maria Gonzalez (Senior, ~9 yrs exp, PhD) | Matched skills: Go, R, Sql, Kafka, Ros | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 7.8,
+        "keyword_required": 16.7,
+        "keyword_preferred": 5.0,
+        "seniority": 3.0,
+        "education": 5.0,
+        "raw_semantic": 0.157,
+        "raw_keyword_req": 0.556
+      },
+      "seniority": "Senior",
+      "experience_years": 9,
+      "education_level": "PhD",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Quinn Anderson",
+      "resume_path": "resumes\\quinn_anderson.txt",
+      "match_score": 37.4,
+      "matched_skills": [
+        "Java",
+        "R",
+        "Sql",
+        "Ros"
+      ],
+      "relevant_excerpts": [
+        "Technical Writer and Documentation Engineer with 7 years experience creating developer documentation \nfor APIs, SDKs, and enterprise software. Strong technical background with coding experience.",
+        "QUINN ANDERSON\nquinn.anderson@email.com | (503) 555-1717 | Portland, OR\n\nSUMMARY\nTechnical Writer and Documentation Engineer with 7 years experience creating developer documentation \nfor APIs, SDKs, and enterprise software. Strong technical background with coding experience.\n\nEXPERIENCE\n\nSenior Tech...",
+        "Senior Technical Writer | Twilio | 2021 \u2013 Present\n- Own documentation for Twilio's Communication APIs (10M+ developer users)\n- Reduced developer onboarding time by 45% through improved quickstart guides\n- Built docs-as-code pipeline using Sphinx, GitHub Actions, and ReadTheDocs\n- Collaborated with 2..."
+      ],
+      "reasoning": "Quinn Anderson (Senior, ~8 yrs exp, Masters) | Matched skills: Java, R, Sql, Ros | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 12.8,
+        "keyword_required": 13.3,
+        "keyword_preferred": 5.0,
+        "seniority": 3.0,
+        "education": 3.3,
+        "raw_semantic": 0.255,
+        "raw_keyword_req": 0.444
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Alice Chen",
+      "resume_path": "resumes\\alice_chen.txt",
+      "match_score": 37.3,
+      "matched_skills": [
+        "Go",
+        "Scala",
+        "R",
+        "Sql"
+      ],
+      "relevant_excerpts": [
+        "Senior Machine Learning Engineer with 7 years of experience building production ML systems. \nExpert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.",
+        "ALICE CHEN\nalice.chen@email.com | (415) 555-0101 | San Francisco, CA | linkedin.com/in/alicechen\n\nSUMMARY\nSenior Machine Learning Engineer with 7 years of experience building production ML systems. \nExpert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.\n\nEXPERIENCE...",
+        "Senior ML Engineer | Google DeepMind | 2020 \u2013 Present\n- Designed and deployed large-scale NLP models serving 100M+ daily users\n- Built distributed training pipelines using PyTorch and JAX on TPU clusters\n- Reduced model inference latency by 40% through quantization and distillation\n- Mentored 4 juni..."
+      ],
+      "reasoning": "Alice Chen (Staff/Principal, ~10 yrs exp, Masters) | Matched skills: Go, Scala, R, Sql | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 10.7,
+        "keyword_required": 13.3,
+        "keyword_preferred": 5.0,
+        "seniority": 5.0,
+        "education": 3.3,
+        "raw_semantic": 0.213,
+        "raw_keyword_req": 0.444
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 10,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Fiona Murphy",
+      "resume_path": "resumes\\fiona_murphy.txt",
+      "match_score": 36.2,
+      "matched_skills": [
+        "R",
+        "Sql",
+        "Kafka",
+        "Ros"
+      ],
+      "relevant_excerpts": [
+        "Data Platform Engineer with 7 years building modern data infrastructure for analytics teams.\nExpert in dbt, Snowflake, and data modeling. Transitioned from data analyst to engineering.",
+        "FIONA MURPHY\nfiona.murphy@email.com | (857) 555-3232 | Boston, MA\n\nSUMMARY\nData Platform Engineer with 7 years building modern data infrastructure for analytics teams.\nExpert in dbt, Snowflake, and data modeling. Transitioned from data analyst to engineering.\n\nEXPERIENCE\n\nSenior Analytics Engineer |..."
+      ],
+      "reasoning": "Fiona Murphy (Staff/Principal, ~10 yrs exp, Masters) | Matched skills: R, Sql, Kafka, Ros | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 9.5,
+        "keyword_required": 13.3,
+        "keyword_preferred": 5.0,
+        "seniority": 5.0,
+        "education": 3.3,
+        "raw_semantic": 0.19,
+        "raw_keyword_req": 0.444
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 10,
+      "education_level": "Masters",
+      "filter_failures": []
+    }
+  ],
+  "latency_ms": 32.2,
+  "timestamp": "2026-03-12T16:48:49.372506"
+}

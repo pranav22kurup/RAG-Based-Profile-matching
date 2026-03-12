@@ -1,0 +1,31 @@
+UMAR HASSAN
+umar.hassan@email.com | (347) 555-2121 | New York, NY
+
+SUMMARY
+Financial Analyst and FP&A professional with 6 years at investment banks and tech companies.
+CFA charterholder. Expert in financial modeling, valuation, and business intelligence.
+
+EXPERIENCE
+
+Senior Financial Analyst | Meta | 2021 – Present
+- Built integrated financial model for $30B advertising business unit
+- Led quarterly earnings analysis for investor relations team
+- Automated financial reporting saving 20 hours/week using Python and SQL
+- Provided financial insights to VPs on headcount planning ($800M budget)
+
+Financial Analyst | Morgan Stanley | 2018 – 2021
+- Performed DCF, LBO, and comparable company analyses for M&A transactions
+- Created pitch books for $2B+ technology sector deals
+- Monitored portfolio companies and prepared investor reports
+
+Analyst | Deloitte Consulting | 2017 – 2018
+- Supported financial due diligence for private equity clients
+
+EDUCATION
+B.S. Finance & Economics | NYU Stern | 2017
+
+SKILLS
+Financial Modeling: DCF, LBO, M&A, three-statement modeling
+Tools: Excel (VBA), Python (pandas), SQL, Tableau, Power BI, Bloomberg Terminal
+Accounting: GAAP, IFRS, financial statement analysis
+CERTIFICATIONS: CFA Charterholder | Series 63

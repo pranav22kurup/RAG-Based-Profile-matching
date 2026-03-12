@@ -1,0 +1,34 @@
+GEORGE WALKER
+george.walker@email.com | (415) 555-3333 | San Francisco, CA
+
+SUMMARY
+AI/ML Product Engineer with 6 years bridging ML research and production systems.
+Expert in LLM applications, prompt engineering, and AI product development.
+Built AI products used by 5M+ users at leading tech companies.
+
+EXPERIENCE
+
+AI Engineer | Anthropic | 2023 – Present
+- Built Claude API integrations and developer tooling for enterprise customers
+- Designed evaluation frameworks for LLM safety and capability assessment
+- Developed retrieval-augmented generation (RAG) systems for document Q&A
+- Contributed to Constitutional AI implementation research
+
+AI Engineer | Salesforce Einstein | 2020 – 2023
+- Built GPT-powered CRM automation features (auto-summarization, email drafting)
+- Developed multi-modal AI pipeline for document processing (OCR + NLP)
+- Led integration of OpenAI API into Salesforce platform serving 150,000+ companies
+
+Software Engineer | Zendesk | 2018 – 2020
+- Built customer support automation using NLP (ticket classification, routing)
+- Developed Python microservices for real-time NLP inference
+
+EDUCATION
+M.S. Artificial Intelligence | UC San Diego | 2018
+B.S. Computer Science | UCLA | 2016
+
+SKILLS
+AI/ML: LLMs (GPT-4, Claude, LLaMA), RAG, prompt engineering, LangChain, LlamaIndex
+NLP: Hugging Face, embeddings, vector databases (Pinecone, Chroma, Weaviate)
+Languages: Python, TypeScript, SQL
+Cloud: AWS, Azure OpenAI Service, GCP Vertex AI

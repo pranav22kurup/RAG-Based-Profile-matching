@@ -1,0 +1,33 @@
+Job Title: NLP / LLM Engineer
+Company: Cognito Labs
+Location: Remote (US-based)
+
+About the Role:
+Cognito Labs builds enterprise AI assistants powered by large language models. 
+We're seeking an NLP/LLM Engineer to build and improve our core language AI systems.
+
+Responsibilities:
+- Design and implement RAG (Retrieval-Augmented Generation) pipelines for document Q&A
+- Fine-tune and evaluate large language models for domain-specific tasks
+- Build prompt engineering frameworks and evaluation systems
+- Develop vector search and semantic similarity systems
+- Integrate LLMs with enterprise data sources and APIs
+- Monitor and improve model performance, safety, and reliability
+- Collaborate with product team to define AI feature requirements
+
+Required Qualifications:
+- 3+ years of NLP or LLM engineering experience
+- Strong Python programming skills
+- Hands-on experience with Hugging Face Transformers
+- Experience with LLM APIs (OpenAI, Anthropic, or similar)
+- Knowledge of embedding models and vector databases (Pinecone, ChromaDB, Weaviate)
+- Experience with LangChain or LlamaIndex
+- Understanding of RAG architectures and prompt engineering
+
+Preferred Qualifications:
+- Experience fine-tuning LLMs (LoRA, QLoRA, RLHF)
+- Background in computational linguistics
+- Experience with evaluation frameworks for LLMs
+- Knowledge of AI safety and alignment concepts
+
+Compensation: $180,000 - $240,000 + equity

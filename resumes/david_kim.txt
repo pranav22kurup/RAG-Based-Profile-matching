@@ -1,0 +1,36 @@
+DAVID KIM
+david.kim@email.com | (206) 555-0404 | Seattle, WA
+
+SUMMARY
+DevOps / Platform Engineer with 8 years experience in cloud infrastructure, Kubernetes, and SRE practices. 
+Built and managed infrastructure for systems handling millions of concurrent users.
+
+EXPERIENCE
+
+Staff Platform Engineer | Amazon Web Services | 2019 – Present
+- Designed multi-region Kubernetes platform serving 500+ internal engineering teams
+- Led SRE practices achieving 99.99% uptime SLA for critical payment services
+- Built infrastructure-as-code frameworks (Terraform + CDK) adopted by 200+ teams
+- Reduced cloud costs by $8M/year through resource optimization and spot instance strategies
+
+Senior DevOps Engineer | Microsoft | 2016 – 2019
+- Managed Azure DevOps pipelines for Office 365 (1B+ users)
+- Implemented GitOps workflows with ArgoCD and Flux
+- Built chaos engineering platform for resiliency testing
+
+Systems Engineer | Boeing | 2015 – 2016
+- Administered Linux server fleet (500+ nodes) and network infrastructure
+
+EDUCATION
+B.S. Electrical Engineering | University of Washington | 2015
+
+SKILLS
+Cloud: AWS (expert), GCP, Azure
+Container Orchestration: Kubernetes, Docker, Helm, Istio
+IaC: Terraform, Pulumi, AWS CDK, Ansible, Chef
+CI/CD: GitHub Actions, Jenkins, CircleCI, ArgoCD
+Monitoring: Prometheus, Grafana, Datadog, ELK Stack
+Languages: Python, Go, Bash, TypeScript
+
+CERTIFICATIONS
+AWS Solutions Architect Professional | CKA (Kubernetes) | GCP Professional Cloud Architect

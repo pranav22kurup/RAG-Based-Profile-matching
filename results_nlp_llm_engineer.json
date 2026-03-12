@@ -1,0 +1,325 @@
+{
+  "job_description": "Job Title: NLP / LLM Engineer\nCompany: Cognito Labs\nLocation: Remote (US-based)\n\nAbout the Role:\nCognito Labs builds enterprise AI assistants powered by large language models. \nWe're seeking an NLP/LLM Engineer to build and improve our core language AI systems.\n\nResponsibilities:\n- Design and implem...",
+  "jd_required_skills": [
+    "python",
+    "r",
+    "nlp",
+    "hugging face",
+    "langchain",
+    "transformers",
+    "llm",
+    "rag",
+    "llama"
+  ],
+  "jd_preferred_skills": [
+    "rlhf"
+  ],
+  "total_candidates_evaluated": 33,
+  "top_matches": [
+    {
+      "candidate_name": "Tina Patel",
+      "resume_path": "resumes\\tina_patel.txt",
+      "match_score": 64.1,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Nlp",
+        "Hugging Face",
+        "Langchain",
+        "Transformers",
+        "Llm",
+        "Rag",
+        "Llama"
+      ],
+      "relevant_excerpts": [
+        "NLP Engineer with 5 years specializing in conversational AI and language models.\nBuilt production chatbots and NLP systems serving millions of users. \nExpert in Hugging Face, LangChain, and LLM fine-tuning.",
+        "TINA PATEL\ntina.patel@email.com | (408) 555-2020 | Sunnyvale, CA\n\nSUMMARY\nNLP Engineer with 5 years specializing in conversational AI and language models.\nBuilt production chatbots and NLP systems serving millions of users. \nExpert in Hugging Face, LangChain, and LLM fine-tuning.\n\nEXPERIENCE\n\nSenior...",
+        "NLP: Hugging Face Transformers, LangChain, SpaCy, NLTK, Gensim\nModels: BERT, GPT-4, LLaMA, T5, Whisper, embedding models\nTasks: Text classification, NER, QA, Summarization, RAG, fine-tuning\nMLOps: MLflow, Weights & Biases, ONNX, TensorRT\nLanguages: Python, SQL, Bash"
+      ],
+      "reasoning": "Tina Patel (Senior, ~8 yrs exp, Masters) | Matched skills: Python, R, Nlp, Hugging Face, Langchain, Transformers, Llm, Rag, Llama | Good semantic alignment with job description. | Covers most required skills.",
+      "score_breakdown": {
+        "semantic": 26.6,
+        "keyword_required": 30.0,
+        "keyword_preferred": 0.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.532,
+        "raw_keyword_req": 1.0
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "George Walker",
+      "resume_path": "resumes\\george_walker.txt",
+      "match_score": 56.4,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Nlp",
+        "Hugging Face",
+        "Langchain",
+        "Llm",
+        "Rag",
+        "Llama"
+      ],
+      "relevant_excerpts": [
+        "GEORGE WALKER\ngeorge.walker@email.com | (415) 555-3333 | San Francisco, CA\n\nSUMMARY\nAI/ML Product Engineer with 6 years bridging ML research and production systems.\nExpert in LLM applications, prompt engineering, and AI product development.\nBuilt AI products used by 5M+ users at leading tech compani...",
+        "AI Engineer | Anthropic | 2023 \u2013 Present\n- Built Claude API integrations and developer tooling for enterprise customers\n- Designed evaluation frameworks for LLM safety and capability assessment\n- Developed retrieval-augmented generation (RAG) systems for document Q&A\n- Contributed to Constitutional...",
+        "AI/ML: LLMs (GPT-4, Claude, LLaMA), RAG, prompt engineering, LangChain, LlamaIndex\nNLP: Hugging Face, embeddings, vector databases (Pinecone, Chroma, Weaviate)\nLanguages: Python, TypeScript, SQL\nCloud: AWS, Azure OpenAI Service, GCP Vertex AI"
+      ],
+      "reasoning": "George Walker (Senior, ~8 yrs exp, Masters) | Matched skills: Python, R, Nlp, Hugging Face, Langchain, Llm, Rag, Llama | Moderate semantic alignment with job description. | Covers most required skills.",
+      "score_breakdown": {
+        "semantic": 22.2,
+        "keyword_required": 26.7,
+        "keyword_preferred": 0.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.444,
+        "raw_keyword_req": 0.889
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Henry Liu",
+      "resume_path": "resumes\\henry_liu.txt",
+      "match_score": 46.2,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Llm",
+        "Rlhf"
+      ],
+      "relevant_excerpts": [
+        "HENRY LIU\nhenry.liu@email.com | (650) 555-0808 | Menlo Park, CA\n\nSUMMARY\nAI Research Scientist with PhD and 3 years industry experience. \nPublished 8 papers in top ML venues (NeurIPS, ICML, ICLR). \nExpert in reinforcement learning, large language models, and AI safety.\n\nEXPERIENCE\n\nResearch Scientis...",
+        "AI Research Scientist with PhD and 3 years industry experience. \nPublished 8 papers in top ML venues (NeurIPS, ICML, ICLR). \nExpert in reinforcement learning, large language models, and AI safety.",
+        "Research Scientist | OpenAI | 2022 \u2013 Present\n- Contributed to GPT-4 pretraining and RLHF fine-tuning pipelines\n- Published research on scalable reward modeling for RLHF\n- Built evaluation frameworks for LLM alignment and safety properties\n\nResearch Intern | Google Brain | 2021\n- Developed novel expl..."
+      ],
+      "reasoning": "Henry Liu (Mid, ~4 yrs exp, PhD) | Matched skills: Python, R, Llm, Rlhf | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 18.7,
+        "keyword_required": 10.0,
+        "keyword_preferred": 10.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.374,
+        "raw_keyword_req": 0.333
+      },
+      "seniority": "Mid",
+      "experience_years": 4,
+      "education_level": "PhD",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Alice Chen",
+      "resume_path": "resumes\\alice_chen.txt",
+      "match_score": 43.2,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Nlp",
+        "Hugging Face",
+        "Transformers",
+        "Llm"
+      ],
+      "relevant_excerpts": [
+        "ALICE CHEN\nalice.chen@email.com | (415) 555-0101 | San Francisco, CA | linkedin.com/in/alicechen\n\nSUMMARY\nSenior Machine Learning Engineer with 7 years of experience building production ML systems. \nExpert in deep learning, NLP, and MLOps. Led teams of 5+ engineers at top tech companies.\n\nEXPERIENCE...",
+        "- \"Efficient Fine-Tuning of Large Language Models\" \u2013 NeurIPS 2022\n- \"Scalable Fraud Detection with Graph Neural Networks\" \u2013 KDD 2020",
+        "Senior ML Engineer | Google DeepMind | 2020 \u2013 Present\n- Designed and deployed large-scale NLP models serving 100M+ daily users\n- Built distributed training pipelines using PyTorch and JAX on TPU clusters\n- Reduced model inference latency by 40% through quantization and distillation\n- Mentored 4 juni..."
+      ],
+      "reasoning": "Alice Chen (Staff/Principal, ~10 yrs exp, Masters) | Matched skills: Python, R, Nlp, Hugging Face, Transformers, Llm | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 15.7,
+        "keyword_required": 20.0,
+        "keyword_preferred": 0.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.314,
+        "raw_keyword_req": 0.667
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 10,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Maria Gonzalez",
+      "resume_path": "resumes\\maria_gonzalez.txt",
+      "match_score": 29.5,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Nlp",
+        "Rag"
+      ],
+      "relevant_excerpts": [
+        "MARIA GONZALEZ\nmaria.gonzalez@email.com | (713) 555-1313 | Houston, TX\n\nSUMMARY\nQuantitative Analyst / Algorithmic Trader with 7 years of experience in systematic trading and risk management.\nExpert in Python, C++, and quantitative finance. Built trading strategies generating $50M+ alpha annually....",
+        "Senior Quantitative Analyst | Goldman Sachs | 2020 \u2013 Present\n- Developed high-frequency market-making strategies (C++, Python) with Sharpe ratio > 3.0\n- Built statistical arbitrage models across equity, futures, and FX markets\n- Designed risk management systems monitoring $5B portfolio in real-time...",
+        "Quantitative Analyst / Algorithmic Trader with 7 years of experience in systematic trading and risk management.\nExpert in Python, C++, and quantitative finance. Built trading strategies generating $50M+ alpha annually."
+      ],
+      "reasoning": "Maria Gonzalez (Senior, ~9 yrs exp, PhD) | Matched skills: Python, R, Nlp, Rag | Moderate semantic alignment with job description. | Covers some required skills.",
+      "score_breakdown": {
+        "semantic": 8.6,
+        "keyword_required": 13.3,
+        "keyword_preferred": 0.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.173,
+        "raw_keyword_req": 0.444
+      },
+      "seniority": "Senior",
+      "experience_years": 9,
+      "education_level": "PhD",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Brenda Foster",
+      "resume_path": "resumes\\brenda_foster.txt",
+      "match_score": 28.1,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Hugging Face"
+      ],
+      "relevant_excerpts": [
+        "BRENDA FOSTER\nbrenda.foster@email.com | (612) 555-2828 | Minneapolis, MN\n\nSUMMARY\nMachine Learning Engineer with 4 years experience deploying ML models to production.\nExpert in MLOps, model serving, and real-time ML systems. Strong Python and cloud skills.\n\nEXPERIENCE\n\nML Engineer | Target Corporati...",
+        "Machine Learning Engineer with 4 years experience deploying ML models to production.\nExpert in MLOps, model serving, and real-time ML systems. Strong Python and cloud skills.",
+        "ML Engineer | Target Corporation | 2021 \u2013 Present\n- Built recommendation system serving 2M+ daily users (matrix factorization + deep learning)\n- Deployed 15+ ML models to production using Kubernetes and Seldon Core\n- Built feature platform processing 50M+ events/day with Feast feature store\n- Reduce..."
+      ],
+      "reasoning": "Brenda Foster (Senior, ~6 yrs exp, Masters) | Matched skills: Python, R, Hugging Face | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 10.6,
+        "keyword_required": 10.0,
+        "keyword_preferred": 0.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.211,
+        "raw_keyword_req": 0.333
+      },
+      "seniority": "Senior",
+      "experience_years": 6,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Quinn Anderson",
+      "resume_path": "resumes\\quinn_anderson.txt",
+      "match_score": 27.3,
+      "matched_skills": [
+        "Python",
+        "R"
+      ],
+      "relevant_excerpts": [
+        "Technical Writer and Documentation Engineer with 7 years experience creating developer documentation \nfor APIs, SDKs, and enterprise software. Strong technical background with coding experience.",
+        "QUINN ANDERSON\nquinn.anderson@email.com | (503) 555-1717 | Portland, OR\n\nSUMMARY\nTechnical Writer and Documentation Engineer with 7 years experience creating developer documentation \nfor APIs, SDKs, and enterprise software. Strong technical background with coding experience.\n\nEXPERIENCE\n\nSenior Tech...",
+        "Senior Technical Writer | Twilio | 2021 \u2013 Present\n- Own documentation for Twilio's Communication APIs (10M+ developer users)\n- Reduced developer onboarding time by 45% through improved quickstart guides\n- Built docs-as-code pipeline using Sphinx, GitHub Actions, and ReadTheDocs\n- Collaborated with 2..."
+      ],
+      "reasoning": "Quinn Anderson (Senior, ~8 yrs exp, Masters) | Matched skills: Python, R | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 13.2,
+        "keyword_required": 6.7,
+        "keyword_preferred": 0.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.264,
+        "raw_keyword_req": 0.222
+      },
+      "seniority": "Senior",
+      "experience_years": 8,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Samuel Thompson",
+      "resume_path": "resumes\\samuel_thompson.txt",
+      "match_score": 26.3,
+      "matched_skills": [
+        "Python",
+        "R",
+        "Rag"
+      ],
+      "relevant_excerpts": [
+        "SAMUEL THOMPSON\nsamuel.thompson@email.com | (202) 555-1919 | Washington, DC\n\nSUMMARY\nSoftware Engineer with 3 years experience specializing in Python backend development and REST API design.\nRecent graduate passionate about clean code, test-driven development, and open-source contributions.\n\nEXPERIE...",
+        "Software Engineer | Palantir Technologies | 2022 \u2013 Present\n- Built data pipeline APIs for government analytics platform (Python, FastAPI)\n- Developed ETL jobs processing classified datasets (clearance required)\n- Wrote comprehensive unit and integration tests (95% code coverage)\n- Participated in on...",
+        "Software Engineer with 3 years experience specializing in Python backend development and REST API design.\nRecent graduate passionate about clean code, test-driven development, and open-source contributions."
+      ],
+      "reasoning": "Samuel Thompson (Mid, ~4 yrs exp, Masters) | Matched skills: Python, R, Rag | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 8.8,
+        "keyword_required": 10.0,
+        "keyword_preferred": 0.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.175,
+        "raw_keyword_req": 0.333
+      },
+      "seniority": "Mid",
+      "experience_years": 4,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Carol Johnson",
+      "resume_path": "resumes\\carol_johnson.txt",
+      "match_score": 26.2,
+      "matched_skills": [
+        "Python",
+        "R"
+      ],
+      "relevant_excerpts": [
+        "Data Engineer with 6 years of experience designing and maintaining large-scale data pipelines.\nExpert in Spark, Kafka, and cloud data warehousing. Strong background in data modeling.",
+        "CAROL JOHNSON\ncarol.johnson@email.com | (212) 555-0303 | New York, NY\n\nSUMMARY\nData Engineer with 6 years of experience designing and maintaining large-scale data pipelines.\nExpert in Spark, Kafka, and cloud data warehousing. Strong background in data modeling.\n\nEXPERIENCE\n\nSenior Data Engineer | JP...",
+        "Senior Data Engineer | JPMorgan Chase | 2021 \u2013 Present\n- Architected real-time risk analytics platform processing 5TB/day using Apache Kafka and Spark Streaming\n- Built data lakehouse on AWS (S3 + Delta Lake) replacing legacy Oracle data warehouse\n- Reduced data pipeline failures by 70% through robu..."
+      ],
+      "reasoning": "Carol Johnson (Senior, ~9 yrs exp, Masters) | Matched skills: Python, R | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 12.0,
+        "keyword_required": 6.7,
+        "keyword_preferred": 0.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.241,
+        "raw_keyword_req": 0.222
+      },
+      "seniority": "Senior",
+      "experience_years": 9,
+      "education_level": "Masters",
+      "filter_failures": []
+    },
+    {
+      "candidate_name": "Zoe Williams",
+      "resume_path": "resumes\\zoe_williams.txt",
+      "match_score": 25.1,
+      "matched_skills": [
+        "Python",
+        "R"
+      ],
+      "relevant_excerpts": [
+        "Staff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture.",
+        "ZOE WILLIAMS\nzoe.williams@email.com | (646) 555-2626 | Brooklyn, NY\n\nSUMMARY\nStaff Software Engineer with 11 years of experience in distributed systems and platform engineering.\nPassionate about developer productivity, system design, and engineering culture.\n\nEXPERIENCE\n\nStaff Engineer | Spotify | 2...",
+        "Staff Engineer | Spotify | 2019 \u2013 Present\n- Technical lead for internal developer platform used by 3,000+ engineers\n- Designed event streaming architecture (Kafka) handling 1T+ events/day for music recommendations\n- Contributed to engineering RFC process improving cross-team alignment\n- Mentored 8 e..."
+      ],
+      "reasoning": "Zoe Williams (Staff/Principal, ~12 yrs exp, Masters) | Matched skills: Python, R | Moderate semantic alignment with job description. | Limited coverage of required skills.",
+      "score_breakdown": {
+        "semantic": 10.9,
+        "keyword_required": 6.7,
+        "keyword_preferred": 0.0,
+        "seniority": 3.5,
+        "education": 4.0,
+        "raw_semantic": 0.218,
+        "raw_keyword_req": 0.222
+      },
+      "seniority": "Staff/Principal",
+      "experience_years": 12,
+      "education_level": "Masters",
+      "filter_failures": []
+    }
+  ],
+  "latency_ms": 37.8,
+  "timestamp": "2026-03-12T16:48:49.057282"
+}

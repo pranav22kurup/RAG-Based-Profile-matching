@@ -1,0 +1,33 @@
+HENRY LIU
+henry.liu@email.com | (650) 555-0808 | Menlo Park, CA
+
+SUMMARY
+AI Research Scientist with PhD and 3 years industry experience. 
+Published 8 papers in top ML venues (NeurIPS, ICML, ICLR). 
+Expert in reinforcement learning, large language models, and AI safety.
+
+EXPERIENCE
+
+Research Scientist | OpenAI | 2022 – Present
+- Contributed to GPT-4 pretraining and RLHF fine-tuning pipelines
+- Published research on scalable reward modeling for RLHF
+- Built evaluation frameworks for LLM alignment and safety properties
+
+Research Intern | Google Brain | 2021
+- Developed novel exploration strategy for sparse-reward RL environments
+- Paper accepted at NeurIPS 2021
+
+EDUCATION
+Ph.D. Computer Science (Machine Learning) | Carnegie Mellon University | 2022
+B.S. Mathematics & CS | Caltech | 2017
+
+SKILLS
+Research Areas: Reinforcement Learning, LLMs, AI Safety, RLHF, Multi-agent systems
+Languages: Python, C++, CUDA
+Frameworks: PyTorch, JAX, TensorFlow
+Math: Optimization, Probability theory, Linear algebra, Game theory
+
+PUBLICATIONS (Selected)
+- "Scalable Reward Modeling for RLHF" – NeurIPS 2023
+- "Safe Exploration in Deep RL" – ICML 2022
+- "Emergent Communication in Multi-Agent RL" – ICLR 2021
