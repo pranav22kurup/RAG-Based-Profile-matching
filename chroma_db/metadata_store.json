@@ -7,8 +7,6 @@
     "skills_str": "python, rust, r, bash, aws, gcp, azure, terraform",
     "skill_years": {
       "python": 4,
-      "rust": 10,
-      "r": 10,
       "bash": 4,
       "aws": 4,
       "gcp": 4,
@@ -29,9 +27,7 @@
     "skill_years": {
       "python": 2,
       "c++": 2,
-      "go": 6,
       "scala": 2,
-      "r": 10,
       "sql": 2,
       "machine learning": 2,
       "nlp": 8,
@@ -42,7 +38,6 @@
       "xgboost": 2,
       "hugging face": 2,
       "transformers": 2,
-      "llm": 2,
       "reinforcement learning": 2,
       "airflow": 2,
       "aws": 2,
@@ -68,9 +63,6 @@
       "java": 1,
       "typescript": 6,
       "go": 1,
-      "r": 8,
-      "sql": 3,
-      "rag": 1,
       "elasticsearch": 1,
       "aws": 1,
       "kubernetes": 1,
@@ -85,7 +77,6 @@
       "postgresql": 3,
       "mongodb": 1,
       "redis": 1,
-      "ros": 5,
       "devops": 1
     },
     "seniority": "Senior",
@@ -101,7 +92,6 @@
     "skills_str": "python, r, sql, bash, machine learning, deep learning, computer vision, pytorch, tensorflow, scikit-learn, xgboost, hugging face, spark, kafka, airflow, aws, gcp, azure, kubernetes, docker, mlops",
     "skill_years": {
       "python": 1,
-      "r": 6,
       "sql": 1,
       "bash": 1,
       "deep learning": 5,
@@ -134,8 +124,6 @@
     "skills_str": "swift, r, rag, graphql, rest",
     "skill_years": {
       "swift": 8,
-      "r": 8,
-      "rag": 5,
       "graphql": 3,
       "rest": 3
     },
@@ -154,7 +142,6 @@
       "python": 1,
       "java": 1,
       "scala": 1,
-      "r": 9,
       "sql": 1,
       "spark": 6,
       "kafka": 6,
@@ -169,8 +156,7 @@
       "gcp": 4,
       "azure": 1,
       "postgresql": 1,
-      "cassandra": 1,
-      "ros": 3
+      "cassandra": 1
     },
     "seniority": "Senior",
     "filename": "carol_johnson.txt",
@@ -186,8 +172,7 @@
     "skill_years": {
       "python": 1,
       "typescript": 1,
-      "go": 4,
-      "r": 11,
+      "go": 1,
       "bash": 1,
       "aws": 1,
       "gcp": 1,
@@ -196,7 +181,6 @@
       "docker": 1,
       "terraform": 8,
       "helm": 1,
-      "ros": 3,
       "devops": 3,
       "sre": 7
     },
@@ -216,13 +200,11 @@
       "java": 7,
       "c++": 7,
       "go": 7,
-      "r": 15,
       "sql": 7,
       "aws": 7,
       "azure": 7,
       "cassandra": 7,
-      "dynamodb": 15,
-      "ros": 7
+      "dynamodb": 15
     },
     "seniority": "Staff/Principal",
     "filename": "diana_cho.txt",
@@ -237,9 +219,7 @@
     "skills_str": "python, r, sql, ros",
     "skill_years": {
       "python": 1,
-      "r": 9,
-      "sql": 1,
-      "ros": 5
+      "sql": 1
     },
     "seniority": "Senior",
     "filename": "emma_williams.txt",
@@ -256,8 +236,6 @@
       "python": 4,
       "java": 4,
       "javascript": 4,
-      "go": 4,
-      "r": 4,
       "sql": 4,
       "docker": 4,
       "react": 4,
@@ -279,17 +257,14 @@
     "skills_str": "python, r, sql, bert, kafka, airflow, dbt, snowflake, bigquery, redshift, databricks, ros",
     "skill_years": {
       "python": 2,
-      "r": 10,
       "sql": 2,
-      "bert": 2,
       "kafka": 5,
       "airflow": 2,
       "dbt": 10,
       "snowflake": 10,
       "bigquery": 2,
       "redshift": 5,
-      "databricks": 2,
-      "ros": 2
+      "databricks": 2
     },
     "seniority": "Staff/Principal",
     "filename": "fiona_murphy.txt",
@@ -306,7 +281,6 @@
       "python": 2,
       "java": 2,
       "go": 2,
-      "r": 6,
       "sql": 2,
       "kafka": 6,
       "aws": 2,
@@ -317,8 +291,7 @@
       "postgresql": 2,
       "mysql": 2,
       "redis": 6,
-      "cassandra": 2,
-      "ros": 4
+      "cassandra": 2
     },
     "seniority": "Senior",
     "filename": "frank_nguyen.txt",
@@ -334,20 +307,17 @@
     "skill_years": {
       "python": 2,
       "typescript": 2,
-      "go": 2,
-      "r": 8,
       "sql": 2,
       "nlp": 5,
       "hugging face": 2,
       "langchain": 2,
-      "llm": 5,
+      "llm": 3,
       "rag": 5,
       "gpt": 5,
       "llama": 2,
       "aws": 2,
       "gcp": 2,
-      "azure": 2,
-      "ros": 2
+      "azure": 2
     },
     "seniority": "Senior",
     "filename": "george_walker.txt",
@@ -361,9 +331,7 @@
     "skills": "java, javascript, r",
     "skills_str": "java, javascript, r",
     "skill_years": {
-      "java": 1,
-      "javascript": 1,
-      "r": 8
+      "javascript": 1
     },
     "seniority": "Senior",
     "filename": "grace_park.txt",
@@ -379,9 +347,6 @@
     "skill_years": {
       "python": 4,
       "c++": 4,
-      "go": 4,
-      "scala": 4,
-      "r": 4,
       "cuda": 4,
       "machine learning": 4,
       "pytorch": 4,
@@ -404,8 +369,6 @@
     "skills_str": "python, rust, r, bash, aws, gcp, azure",
     "skill_years": {
       "python": 1,
-      "rust": 5,
-      "r": 9,
       "bash": 1,
       "aws": 1,
       "gcp": 1,
@@ -424,8 +387,7 @@
     "skills_str": "python, go, r, sql, machine learning, deep learning, tensorflow, scikit-learn, xgboost",
     "skill_years": {
       "python": 1,
-      "go": 3,
-      "r": 8,
+      "r": 1,
       "sql": 1,
       "deep learning": 1,
       "tensorflow": 1,
@@ -444,14 +406,10 @@
     "skills": "rust, r, rag, aws, gcp, azure, terraform, ros",
     "skills_str": "rust, r, rag, aws, gcp, azure, terraform, ros",
     "skill_years": {
-      "rust": 3,
-      "r": 13,
-      "rag": 7,
       "aws": 6,
       "gcp": 3,
       "azure": 10,
-      "terraform": 3,
-      "ros": 10
+      "terraform": 3
     },
     "seniority": "Staff/Principal",
     "filename": "katherine_lee.txt",
@@ -467,10 +425,7 @@
     "skill_years": {
       "kotlin": 1,
       "swift": 6,
-      "r": 9,
-      "react": 1,
-      "rest": 1,
-      "ros": 1
+      "react": 1
     },
     "seniority": "Senior",
     "filename": "liam_oconnor.txt",
@@ -486,14 +441,11 @@
     "skill_years": {
       "python": 9,
       "c++": 9,
-      "go": 9,
-      "r": 9,
+      "r": 3,
       "sql": 3,
       "matlab": 3,
       "nlp": 3,
-      "rag": 6,
-      "kafka": 3,
-      "ros": 6
+      "kafka": 3
     },
     "seniority": "Senior",
     "filename": "maria_gonzalez.txt",
@@ -509,9 +461,7 @@
     "skill_years": {
       "python": 6,
       "java": 6,
-      "r": 13,
-      "aws": 6,
-      "ros": 13
+      "aws": 6
     },
     "seniority": "Staff/Principal",
     "filename": "nathan_wright.txt",
@@ -526,8 +476,7 @@
     "skills_str": "python, go, r, bash, deep learning, pytorch, scikit-learn, aws",
     "skill_years": {
       "python": 2,
-      "go": 2,
-      "r": 7,
+      "r": 2,
       "bash": 2,
       "deep learning": 7,
       "pytorch": 2,
@@ -547,12 +496,9 @@
     "skills_str": "typescript, go, rust, r, next.js, typescript, solidity, ros",
     "skill_years": {
       "typescript": 3,
-      "go": 7,
       "rust": 3,
-      "r": 7,
       "next.js": 3,
-      "solidity": 7,
-      "ros": 3
+      "solidity": 7
     },
     "seniority": "Senior",
     "filename": "peter_zhang.txt",
@@ -567,13 +513,10 @@
     "skills_str": "python, java, javascript, r, sql, graphql, rest, ros",
     "skill_years": {
       "python": 3,
-      "java": 3,
       "javascript": 3,
-      "r": 8,
       "sql": 3,
       "graphql": 3,
-      "rest": 3,
-      "ros": 3
+      "rest": 3
     },
     "seniority": "Senior",
     "filename": "quinn_anderson.txt",
@@ -588,10 +531,7 @@
     "skills_str": "python, go, r, sql, ros",
     "skill_years": {
       "python": 4,
-      "go": 6,
-      "r": 9,
-      "sql": 4,
-      "ros": 5
+      "sql": 4
     },
     "seniority": "Senior",
     "filename": "rachel_kim.txt",
@@ -608,10 +548,7 @@
       "python": 4,
       "java": 4,
       "javascript": 4,
-      "go": 4,
-      "r": 4,
       "sql": 4,
-      "rag": 4,
       "aws": 4,
       "docker": 4,
       "react": 4,
@@ -620,8 +557,7 @@
       "flask": 4,
       "postgresql": 4,
       "redis": 4,
-      "dynamodb": 4,
-      "ros": 4
+      "dynamodb": 4
     },
     "seniority": "Mid",
     "filename": "samuel_thompson.txt",
@@ -636,14 +572,12 @@
     "skills_str": "python, r, sql, bash, nlp, hugging face, langchain, transformers, llm, rag, bert, gpt, llama, mlops",
     "skill_years": {
       "python": 3,
-      "r": 8,
       "sql": 3,
       "bash": 3,
       "nlp": 8,
       "hugging face": 3,
       "langchain": 3,
       "transformers": 3,
-      "llm": 5,
       "rag": 8,
       "bert": 8,
       "gpt": 3,
@@ -663,7 +597,6 @@
     "skills_str": "python, r, sql",
     "skill_years": {
       "python": 6,
-      "r": 9,
       "sql": 6
     },
     "seniority": "Senior",
@@ -678,10 +611,8 @@
     "skills": "java, javascript, typescript, r, react, graphql, next.js, vue.js, typescript",
     "skills_str": "java, javascript, typescript, r, react, graphql, next.js, vue.js, typescript",
     "skill_years": {
-      "java": 2,
       "javascript": 2,
       "typescript": 2,
-      "r": 6,
       "react": 2,
       "graphql": 2,
       "next.js": 2,
@@ -702,12 +633,10 @@
       "python": 5,
       "c++": 5,
       "go": 5,
-      "r": 11,
       "sql": 5,
       "bash": 5,
       "aws": 5,
       "gcp": 5,
-      "ros": 5,
       "sre": 11
     },
     "seniority": "Staff/Principal",
@@ -744,8 +673,6 @@
     "skill_years": {
       "python": 2,
       "c++": 7,
-      "go": 2,
-      "r": 7,
       "matlab": 2,
       "cuda": 7,
       "computer vision": 2,
@@ -768,7 +695,6 @@
       "java": 5,
       "go": 5,
       "scala": 5,
-      "r": 12,
       "sql": 5,
       "spark": 5,
       "kafka": 12,
@@ -779,8 +705,7 @@
       "docker": 5,
       "postgresql": 5,
       "redis": 5,
-      "cassandra": 5,
-      "ros": 12
+      "cassandra": 5
     },
     "seniority": "Staff/Principal",
     "filename": "zoe_williams.txt",

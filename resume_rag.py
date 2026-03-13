@@ -17,9 +17,9 @@ from pathlib import Path
 from typing import Optional
 from datetime import datetime
 
-import numpy as np
-import chromadb
-from chromadb.utils import embedding_functions
+import numpy as np # type: ignore
+import chromadb # type: ignore
+from chromadb.utils import embedding_functions # type: ignore
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger(__name__)
@@ -175,11 +175,39 @@ JOB_ENTRY_PATTERN = re.compile(
     re.MULTILINE | re.IGNORECASE,
 )
 
+# Canonical skill -> aliases that appear in resumes/JDs.
+SKILL_ALIASES = {
+    "node.js": ["nodejs"],
+    "next.js": ["nextjs"],
+    "vue.js": ["vuejs"],
+    "scikit-learn": ["sklearn"],
+    "hugging face": ["huggingface"],
+    "c++": ["cpp"],
+}
+
+
+def _skill_patterns(skill: str) -> list[re.Pattern]:
+    """Compile strict match patterns for a canonical skill and aliases."""
+    variants = [skill.lower(), *SKILL_ALIASES.get(skill.lower(), [])]
+    patterns = []
+    for item in variants:
+        escaped = re.escape(item)
+        patterns.append(re.compile(rf"(?<!\w){escaped}(?!\w)", re.IGNORECASE))
+    return patterns
+
+
+def _contains_skill(text: str, skill: str) -> bool:
+    """Return True if a skill (or alias) is present as a bounded token/phrase."""
+    for pattern in _skill_patterns(skill):
+        if pattern.search(text):
+            return True
+    return False
+
 
 def _estimate_skill_years(text: str, skills: list[str]) -> dict[str, int]:
     """
-    Approximate per-skill years by checking which skills appear in each
-    job entry block and summing the durations of those entries.
+    Estimate per-skill years by matching skills within dated job blocks
+    and summing durations where each skill is explicitly mentioned.
     """
     current_year = datetime.now().year
     # Split resume into job entry blocks using the date-range pattern
@@ -187,7 +215,6 @@ def _estimate_skill_years(text: str, skills: list[str]) -> dict[str, int]:
     job_blocks: list[tuple[int, str]] = []  # (duration, block_text)
 
     positions = [(m.start(), m.group(3), m.group(4)) for m in entries]
-    lines = text.splitlines()
 
     for idx, (pos, start_str, end_str) in enumerate(positions):
         start_yr = int(start_str)
@@ -204,7 +231,7 @@ def _estimate_skill_years(text: str, skills: list[str]) -> dict[str, int]:
 
     skill_years: dict[str, int] = {}
     for skill in skills:
-        total = sum(dur for dur, block in job_blocks if skill in block)
+        total = sum(dur for dur, block in job_blocks if _contains_skill(block, skill))
         if total > 0:
             skill_years[skill] = total
 
@@ -283,12 +310,12 @@ def get_chroma_collection(
     collection_name: str = "resumes",
     use_openai: bool = False,
     openai_api_key: Optional[str] = None,
+    use_huggingface: bool = True,  # Added parameter
 ) -> chromadb.Collection:
     """
     Create or load a ChromaDB collection.
-    Uses OpenAI embeddings if key provided, else falls back to
-    ChromaDB's built-in default (all-MiniLM-L6-v2 via sentence-transformers
-    if installed, else a simple embedding function).
+    Uses OpenAI embeddings if key provided, else defaults to HuggingFace
+    (all-MiniLM-L6-v2), else falls back to local TF-IDF.
     """
     client = chromadb.PersistentClient(path=persist_dir)
 
@@ -298,6 +325,11 @@ def get_chroma_collection(
             model_name="text-embedding-3-small",
         )
         logger.info("Using OpenAI text-embedding-3-small")
+    elif use_huggingface:
+        # Load the HuggingFace sentence-transformers default (all-MiniLM-L6-v2)
+        from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction # type: ignore
+        ef = SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
+        logger.info("Using HuggingFace all-MiniLM-L6-v2 embeddings")
     else:
         # TF-IDF embedding (no external download required)
         ef = TFIDFEmbeddingFunction(persist_dir=persist_dir)
@@ -369,7 +401,7 @@ class TFIDFEmbeddingFunction(chromadb.EmbeddingFunction):
 
     def __init__(self, n_features: int = 512, persist_dir: Optional[str] = None):
         import pickle
-        from sklearn.feature_extraction.text import TfidfVectorizer
+        from sklearn.feature_extraction.text import TfidfVectorizer # type: ignore
         self.n_features = n_features
         self.persist_dir = persist_dir
         self._pickle_path = os.path.join(persist_dir, "tfidf_vectorizer.pkl") if persist_dir else None
@@ -406,7 +438,7 @@ class TFIDFEmbeddingFunction(chromadb.EmbeddingFunction):
 
     def refit(self, texts: list[str]):
         """Refit vectorizer on the full corpus and save."""
-        from sklearn.feature_extraction.text import TfidfVectorizer
+        from sklearn.feature_extraction.text import TfidfVectorizer # type: ignore
         seed_docs = [" ".join(self._GLOBAL_VOCAB)] + texts
         new_vect = TfidfVectorizer(
             max_features=self.n_features,
@@ -435,12 +467,12 @@ class TFIDFEmbeddingFunction(chromadb.EmbeddingFunction):
 
 def load_resume(filepath: str) -> str:
     """Load a resume file (supports .txt; extend for .pdf, .docx)."""
-    filepath = Path(filepath)
-    if filepath.suffix.lower() == ".txt":
-        return filepath.read_text(encoding="utf-8")
-    elif filepath.suffix.lower() == ".pdf":
+    filepath = Path(filepath) # type: ignore
+    if filepath.suffix.lower() == ".txt": # type: ignore
+        return filepath.read_text(encoding="utf-8") # type: ignore
+    elif filepath.suffix.lower() == ".pdf": # type: ignore
         try:
-            import PyPDF2
+            import PyPDF2 # type: ignore
             text = ""
             with open(filepath, "rb") as f:
                 reader = PyPDF2.PdfReader(f)
@@ -453,7 +485,7 @@ def load_resume(filepath: str) -> str:
     else:
         # Try reading as text
         try:
-            return filepath.read_text(encoding="utf-8", errors="ignore")
+            return filepath.read_text(encoding="utf-8", errors="ignore") # type: ignore
         except Exception as e:
             logger.error("Cannot read %s: %s", filepath, e)
             return ""
@@ -465,6 +497,7 @@ def build_rag_index(
     collection_name: str = "resumes",
     use_openai: bool = False,
     openai_api_key: Optional[str] = None,
+    use_huggingface: bool = True,  # Added parameter
     force_rebuild: bool = False,
 ) -> tuple[chromadb.Collection, dict]:
     """
@@ -472,8 +505,8 @@ def build_rag_index(
     Returns (collection, metadata_store).
     """
     logger.info("=== Building RAG Index ===")
-    collection = get_chroma_collection(persist_dir, collection_name, use_openai, openai_api_key)
-
+    collection = get_chroma_collection(persist_dir, collection_name, use_openai, openai_api_key, use_huggingface)
+    
     # Check if already indexed
     existing_count = collection.count()
     if existing_count > 0 and not force_rebuild:
@@ -486,7 +519,7 @@ def build_rag_index(
         logger.info("Force rebuild: clearing existing collection...")
         client = chromadb.PersistentClient(path=persist_dir)
         client.delete_collection(collection_name)
-        collection = get_chroma_collection(persist_dir, collection_name, use_openai, openai_api_key)
+        collection = get_chroma_collection(persist_dir, collection_name, use_openai, openai_api_key, use_huggingface)
 
     metadata_store = {}
     resume_dir = Path(resumes_dir)

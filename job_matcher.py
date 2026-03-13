@@ -38,7 +38,7 @@ logger = logging.getLogger(__name__)
 # ─────────────────────────────────────────────
 
 REQUIRED_YEARS_PATTERN = re.compile(
-    r"(\d+)\+?\s*years?\s+(?:of\s+)?(?:experience\s+(?:in|with)\s+)?([a-zA-Z\+\.#]+)",
+    r"(\d+)\+?\s*years?\s+(?:of\s+)?(?:experience\s+)?(?:in|with)?\s*([a-zA-Z][a-zA-Z0-9\+\.#\-/\s]{1,40})",
     re.IGNORECASE,
 )
 
@@ -46,6 +46,18 @@ MUST_HAVE_PATTERN = re.compile(
     r"(?:required|must[- ]have|mandatory|minimum)[:\s]+(.+?)(?=\n|$)",
     re.IGNORECASE,
 )
+
+
+def _normalize_required_skill(raw_phrase: str) -> str:
+    """Map a free-form requirement phrase to a canonical skill when possible."""
+    phrase = raw_phrase.lower().strip(".,;:() ")
+    canonical = [s for s in SKILL_KEYWORDS if s in phrase]
+    if canonical:
+        # Prefer the longest match for phrases like "machine learning engineering"
+        return max(canonical, key=len)
+
+    # Fallback: first token keeps parser resilient for unknown skills
+    return phrase.split()[0] if phrase else raw_phrase.lower().strip(".,;:")
 
 
 def parse_job_description(jd_text: str) -> dict:
@@ -75,7 +87,7 @@ def parse_job_description(jd_text: str) -> dict:
     years_requirements = {}
     for match in REQUIRED_YEARS_PATTERN.finditer(jd_text):
         years = int(match.group(1))
-        skill = match.group(2).lower().strip(".,;:")
+        skill = _normalize_required_skill(match.group(2))
         years_requirements[skill] = years
 
     # Education requirement
@@ -174,24 +186,17 @@ def extract_matched_skills(resume_text: str, jd_skills: list[str]) -> list[str]:
 def passes_hard_filters(candidate_meta: dict, jd_parsed: dict) -> tuple[bool, list[str]]:
     """
     Check if a candidate meets hard/must-have requirements.
-    Uses per-skill years when available, falls back to total experience.
+    Uses strict per-skill years for explicit "X+ years <skill>" requirements.
     Returns (passes: bool, reasons: list[str]).
     """
     failures = []
     skill_years = candidate_meta.get("skill_years", {})
-    total_years = candidate_meta.get("experience_years", 0)
 
     for skill, min_years in jd_parsed["years_requirements"].items():
-        # Check per-skill years first; fall back to total experience
-        candidate_skill_yrs = skill_years.get(skill, None)
-        if candidate_skill_yrs is not None:
-            if candidate_skill_yrs < min_years:
-                failures.append(
-                    f"Requires {min_years}+ yrs {skill} (candidate has ~{candidate_skill_yrs} yrs)"
-                )
-        elif total_years < min_years:
+        candidate_skill_yrs = skill_years.get(skill, 0)
+        if candidate_skill_yrs < min_years:
             failures.append(
-                f"Requires {min_years}+ yrs experience (candidate has ~{total_years} yrs)"
+                f"Requires {min_years}+ yrs {skill} (candidate has ~{candidate_skill_yrs} yrs)"
             )
 
     return len(failures) == 0, failures
